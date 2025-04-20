@@ -1,0 +1,3496 @@
+{
+  "2014": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6327327979162145,
+      "Municipal": 0.10896461905795529,
+      "Particular subvencionado": 0.25830258302583026,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.384666811373996,
+      "N_ESTUDIANTES": 4607
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.2225880803424432,
+      "Municipal": 0.1517945340796839,
+      "Particular subvencionado": 0.6256173855778729,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.947108989134014,
+      "N_ESTUDIANTES": 3037
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8180252583237658,
+      "Municipal": 0.03329506314580941,
+      "Particular subvencionado": 0.1486796785304248,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.993518943742824,
+      "N_ESTUDIANTES": 1742
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.18775847808105872,
+      "Municipal": 0.22663358147229115,
+      "Particular subvencionado": 0.5856079404466501,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.612555831265508,
+      "N_ESTUDIANTES": 1209
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.1816029759891782,
+      "Municipal": 0.2011047232555518,
+      "Particular subvencionado": 0.61729230075527,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.6560511779957166,
+      "N_ESTUDIANTES": 8871
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.009122006841505131,
+      "Municipal": 0.2531356898517674,
+      "Particular subvencionado": 0.7377423033067275,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.836088939566705,
+      "N_ESTUDIANTES": 877
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.10868787987129067,
+      "Municipal": 0.34358240972470505,
+      "Particular subvencionado": 0.5477297104040043,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.908716481944941,
+      "N_ESTUDIANTES": 2797
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.045454545454545456,
+      "Municipal": 0.43301435406698563,
+      "Particular subvencionado": 0.5215311004784688,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.786196172248804,
+      "N_ESTUDIANTES": 1672
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.021341463414634148,
+      "Municipal": 0.37378048780487805,
+      "Particular subvencionado": 0.6048780487804878,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.692585365853659,
+      "N_ESTUDIANTES": 1640
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.03423566878980892,
+      "Municipal": 0.42356687898089174,
+      "Particular subvencionado": 0.5421974522292994,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.955740445859872,
+      "N_ESTUDIANTES": 1256
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.14974358974358976,
+      "Municipal": 0.24512820512820513,
+      "Particular subvencionado": 0.6051282051282051,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.943261538461539,
+      "N_ESTUDIANTES": 1950
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.1454234388366125,
+      "Municipal": 0.31394354148845166,
+      "Particular subvencionado": 0.5406330196749358,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.77606501283148,
+      "N_ESTUDIANTES": 1169
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.04772727272727273,
+      "Municipal": 0.28863636363636364,
+      "Particular subvencionado": 0.6636363636363637,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.647829545454545,
+      "N_ESTUDIANTES": 880
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.339241938525363,
+      "Municipal": 0.24816141806524608,
+      "Particular subvencionado": 0.4125966434093909,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.288419762398642,
+      "N_ESTUDIANTES": 5303
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.11946810720964056,
+      "Municipal": 0.33762725950550593,
+      "Particular subvencionado": 0.5429046332848535,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.088863494701849,
+      "N_ESTUDIANTES": 4813
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.061037639877924724,
+      "Municipal": 0.3224821973550356,
+      "Particular subvencionado": 0.6164801627670397,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.932009155645981,
+      "N_ESTUDIANTES": 1966
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.03926701570680628,
+      "Municipal": 0.19633507853403143,
+      "Particular subvencionado": 0.7643979057591623,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.8515575916230365,
+      "N_ESTUDIANTES": 1528
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8602739726027397,
+      "Municipal": 0.03904109589041096,
+      "Particular subvencionado": 0.10068493150684932,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.090198630136987,
+      "N_ESTUDIANTES": 1460
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.04252577319587629,
+      "Municipal": 0.5193298969072165,
+      "Particular subvencionado": 0.4381443298969072,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.64659793814433,
+      "N_ESTUDIANTES": 776
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.09219858156028368,
+      "Municipal": 0.30969267139479906,
+      "Particular subvencionado": 0.5981087470449172,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.861749408983451,
+      "N_ESTUDIANTES": 423
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.0472972972972973,
+      "Municipal": 0.2807807807807808,
+      "Particular subvencionado": 0.6719219219219219,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.6685210210210215,
+      "N_ESTUDIANTES": 1332
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.06731731731731731,
+      "Municipal": 0.2862862862862863,
+      "Particular subvencionado": 0.6463963963963963,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.135820820820821,
+      "N_ESTUDIANTES": 3996
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.09350804050029779,
+      "Municipal": 0.3990470518165575,
+      "Particular subvencionado": 0.5074449076831448,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.141625967837999,
+      "N_ESTUDIANTES": 1679
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.041315990818668706,
+      "Municipal": 0.33817903596021426,
+      "Particular subvencionado": 0.6205049732211171,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.866128538638102,
+      "N_ESTUDIANTES": 1307
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.15182113234763794,
+      "Municipal": 0.20302921024161558,
+      "Particular subvencionado": 0.6451496574107465,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.912228633249189,
+      "N_ESTUDIANTES": 2773
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.030261348005502064,
+      "Municipal": 0.42732691425951397,
+      "Particular subvencionado": 0.542411737734984,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.929032553874369,
+      "N_ESTUDIANTES": 2181
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6872741870734644,
+      "Municipal": 0.059012444801284626,
+      "Particular subvencionado": 0.2537133681252509,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.759209152950622,
+      "N_ESTUDIANTES": 2491
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.40808823529411764,
+      "Municipal": 0.1738970588235294,
+      "Particular subvencionado": 0.41801470588235295,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.784790441176471,
+      "N_ESTUDIANTES": 2720
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.42733188720173537,
+      "Municipal": 0.13123644251626898,
+      "Particular subvencionado": 0.44143167028199565,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.728546637744035,
+      "N_ESTUDIANTES": 922
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.3046293298802201,
+      "Municipal": 0.1595985755908061,
+      "Particular subvencionado": 0.5357720945289738,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.72712204596957,
+      "N_ESTUDIANTES": 3089
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.09824198552223372,
+      "Municipal": 0.34332988624612204,
+      "Particular subvencionado": 0.5584281282316442,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.792616339193382,
+      "N_ESTUDIANTES": 967
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.20188463735008566,
+      "Municipal": 0.2298686464877213,
+      "Particular subvencionado": 0.568246716162193,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.0266847515705315,
+      "N_ESTUDIANTES": 3502
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.05005561735261402,
+      "Municipal": 0.3081201334816463,
+      "Particular subvencionado": 0.6418242491657397,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.54202447163515,
+      "N_ESTUDIANTES": 1798
+    }
+  },
+  "2015": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6420283626987537,
+      "Municipal": 0.10528577567683713,
+      "Particular subvencionado": 0.2526858616244091,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.39777395788569,
+      "N_ESTUDIANTES": 4654
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.21559034572733202,
+      "Municipal": 0.15720808871493802,
+      "Particular subvencionado": 0.62720156555773,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.957469015003261,
+      "N_ESTUDIANTES": 3066
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8072792362768496,
+      "Municipal": 0.03699284009546539,
+      "Particular subvencionado": 0.15572792362768498,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.01255369928401,
+      "N_ESTUDIANTES": 1676
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.15573179524152847,
+      "Municipal": 0.2465753424657534,
+      "Particular subvencionado": 0.5976928622927181,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.6140519105984135,
+      "N_ESTUDIANTES": 1387
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.1935607024688216,
+      "Municipal": 0.1915245609569865,
+      "Particular subvencionado": 0.6149147365741919,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.640682107406465,
+      "N_ESTUDIANTES": 7858
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.016222479721900347,
+      "Municipal": 0.253765932792584,
+      "Particular subvencionado": 0.7300115874855156,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.862699884125145,
+      "N_ESTUDIANTES": 863
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.10487548228691687,
+      "Municipal": 0.345843563661873,
+      "Particular subvencionado": 0.5492809540512101,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.94321641529288,
+      "N_ESTUDIANTES": 2851
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.06618464961067853,
+      "Municipal": 0.3809788654060067,
+      "Particular subvencionado": 0.5528364849833148,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.81139043381535,
+      "N_ESTUDIANTES": 1798
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.029681597409606044,
+      "Municipal": 0.3874797625472207,
+      "Particular subvencionado": 0.5828386400431732,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.71892606583918,
+      "N_ESTUDIANTES": 1853
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.049019607843137254,
+      "Municipal": 0.3936651583710407,
+      "Particular subvencionado": 0.557315233785822,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.975030165912519,
+      "N_ESTUDIANTES": 1326
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.15324927255092144,
+      "Municipal": 0.2390882638215325,
+      "Particular subvencionado": 0.6076624636275461,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.916440349175558,
+      "N_ESTUDIANTES": 2062
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.14685314685314685,
+      "Municipal": 0.31643356643356646,
+      "Particular subvencionado": 0.5367132867132867,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.822727272727272,
+      "N_ESTUDIANTES": 1144
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.03664921465968586,
+      "Municipal": 0.34345549738219894,
+      "Particular subvencionado": 0.6198952879581152,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.65544502617801,
+      "N_ESTUDIANTES": 955
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.33021635496883023,
+      "Municipal": 0.2605427209387605,
+      "Particular subvencionado": 0.40924092409240925,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.301576824349102,
+      "N_ESTUDIANTES": 5454
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.12454212454212454,
+      "Municipal": 0.31684981684981683,
+      "Particular subvencionado": 0.5586080586080586,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.090313390313391,
+      "N_ESTUDIANTES": 4914
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.04913430042115115,
+      "Municipal": 0.31258773982218063,
+      "Particular subvencionado": 0.6382779597566682,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.930533458118858,
+      "N_ESTUDIANTES": 2137
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.04039167686658507,
+      "Municipal": 0.22888616891064872,
+      "Particular subvencionado": 0.7307221542227662,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.897111383108935,
+      "N_ESTUDIANTES": 1634
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8403755868544601,
+      "Municipal": 0.043594902749832326,
+      "Particular subvencionado": 0.11602951039570758,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.101428571428571,
+      "N_ESTUDIANTES": 1491
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.037712895377128956,
+      "Municipal": 0.5145985401459854,
+      "Particular subvencionado": 0.44768856447688565,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.655,
+      "N_ESTUDIANTES": 822
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.10110294117647059,
+      "Municipal": 0.31433823529411764,
+      "Particular subvencionado": 0.5845588235294118,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.8790257352941175,
+      "N_ESTUDIANTES": 544
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.05227552275522755,
+      "Municipal": 0.23554735547355474,
+      "Particular subvencionado": 0.7121771217712177,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.696642066420664,
+      "N_ESTUDIANTES": 1626
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.08876854250058865,
+      "Municipal": 0.2717212149752767,
+      "Particular subvencionado": 0.6395102425241347,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.148443607252178,
+      "N_ESTUDIANTES": 4247
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.082039911308204,
+      "Municipal": 0.4240576496674058,
+      "Particular subvencionado": 0.49390243902439024,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.154661862527717,
+      "N_ESTUDIANTES": 1804
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.040214477211796246,
+      "Municipal": 0.3190348525469169,
+      "Particular subvencionado": 0.6407506702412868,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.852526809651474,
+      "N_ESTUDIANTES": 1492
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.1309806582965728,
+      "Municipal": 0.1998642687478792,
+      "Particular subvencionado": 0.669155072955548,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.972049541907024,
+      "N_ESTUDIANTES": 2947
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.026155187445510025,
+      "Municipal": 0.4110723626852659,
+      "Particular subvencionado": 0.562772449869224,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.95527027027027,
+      "N_ESTUDIANTES": 2294
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.695046439628483,
+      "Municipal": 0.0661764705882353,
+      "Particular subvencionado": 0.23877708978328174,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.749752321981425,
+      "N_ESTUDIANTES": 2584
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.38064516129032255,
+      "Municipal": 0.1813620071684588,
+      "Particular subvencionado": 0.43799283154121865,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.800465949820788,
+      "N_ESTUDIANTES": 2790
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.4240561896400351,
+      "Municipal": 0.1141352063213345,
+      "Particular subvencionado": 0.4618086040386304,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.708876207199298,
+      "N_ESTUDIANTES": 1139
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.3051926298157454,
+      "Municipal": 0.16482412060301507,
+      "Particular subvencionado": 0.5299832495812395,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.721142378559464,
+      "N_ESTUDIANTES": 2985
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.08719851576994433,
+      "Municipal": 0.310760667903525,
+      "Particular subvencionado": 0.6020408163265306,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.802634508348794,
+      "N_ESTUDIANTES": 1078
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.2020489470688674,
+      "Municipal": 0.228229937393284,
+      "Particular subvencionado": 0.5697211155378487,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.022982356289129,
+      "N_ESTUDIANTES": 3514
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.040634291377601585,
+      "Municipal": 0.30327056491575816,
+      "Particular subvencionado": 0.6560951437066402,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.579489593657086,
+      "N_ESTUDIANTES": 2018
+    }
+  },
+  "2016": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6360424028268551,
+      "Municipal": 0.10330492621076699,
+      "Particular subvencionado": 0.2606526709623779,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.408763250883393,
+      "N_ESTUDIANTES": 4811
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.2191185599006828,
+      "Municipal": 0.154252017380509,
+      "Particular subvencionado": 0.6266294227188082,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.932448789571694,
+      "N_ESTUDIANTES": 3222
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8042725173210161,
+      "Municipal": 0.03175519630484989,
+      "Particular subvencionado": 0.16397228637413394,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.047465357967668,
+      "N_ESTUDIANTES": 1732
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.12933753943217666,
+      "Municipal": 0.25110410094637226,
+      "Particular subvencionado": 0.6195583596214511,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.670700315457413,
+      "N_ESTUDIANTES": 1585
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.2035666626228315,
+      "Municipal": 0.18027417202474827,
+      "Particular subvencionado": 0.6161591653524202,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.653690403979134,
+      "N_ESTUDIANTES": 8243
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.013114754098360656,
+      "Municipal": 0.29180327868852457,
+      "Particular subvencionado": 0.6950819672131148,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.824994535519125,
+      "N_ESTUDIANTES": 915
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.09561752988047809,
+      "Municipal": 0.36327417602318,
+      "Particular subvencionado": 0.5411082940963419,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.987953639985513,
+      "N_ESTUDIANTES": 2761
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.051821446895844024,
+      "Municipal": 0.41970241149307336,
+      "Particular subvencionado": 0.5284761416110826,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.837916880451513,
+      "N_ESTUDIANTES": 1949
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.02370791844476055,
+      "Municipal": 0.43575154101469893,
+      "Particular subvencionado": 0.5405405405405406,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.747614983404457,
+      "N_ESTUDIANTES": 2109
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.041423948220064725,
+      "Municipal": 0.38058252427184464,
+      "Particular subvencionado": 0.5779935275080906,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.000355987055015,
+      "N_ESTUDIANTES": 1545
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.137291280148423,
+      "Municipal": 0.2653061224489796,
+      "Particular subvencionado": 0.5974025974025974,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.939911873840446,
+      "N_ESTUDIANTES": 2156
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.1205020920502092,
+      "Municipal": 0.33807531380753136,
+      "Particular subvencionado": 0.5414225941422595,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.796635983263599,
+      "N_ESTUDIANTES": 1195
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.03935185185185185,
+      "Municipal": 0.32407407407407407,
+      "Particular subvencionado": 0.6365740740740741,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.688449074074073,
+      "N_ESTUDIANTES": 864
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.31203753835047826,
+      "Municipal": 0.2550081212777477,
+      "Particular subvencionado": 0.43295434037177405,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.323743006677495,
+      "N_ESTUDIANTES": 5541
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.11748362770390951,
+      "Municipal": 0.31335582456836675,
+      "Particular subvencionado": 0.5691605477277237,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.104731097439968,
+      "N_ESTUDIANTES": 5039
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.05231757687012391,
+      "Municipal": 0.3285910968334098,
+      "Particular subvencionado": 0.6190913262964662,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.937696190913263,
+      "N_ESTUDIANTES": 2179
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.02459508098380324,
+      "Municipal": 0.20875824835032994,
+      "Particular subvencionado": 0.7666466706658668,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.841733653269346,
+      "N_ESTUDIANTES": 1667
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8645251396648045,
+      "Municipal": 0.03770949720670391,
+      "Particular subvencionado": 0.09776536312849161,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.133135474860335,
+      "N_ESTUDIANTES": 1432
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.026030368763557483,
+      "Municipal": 0.5043383947939263,
+      "Particular subvencionado": 0.46963123644251625,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.65972885032538,
+      "N_ESTUDIANTES": 922
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.0979020979020979,
+      "Municipal": 0.34615384615384615,
+      "Particular subvencionado": 0.5559440559440559,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.936346153846154,
+      "N_ESTUDIANTES": 572
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.039504716981132074,
+      "Municipal": 0.27889150943396224,
+      "Particular subvencionado": 0.6816037735849056,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.676892688679246,
+      "N_ESTUDIANTES": 1696
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.07977437550362611,
+      "Municipal": 0.30163846360461993,
+      "Particular subvencionado": 0.6185871608917539,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.161367177007789,
+      "N_ESTUDIANTES": 3723
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.08495670995670995,
+      "Municipal": 0.387987012987013,
+      "Particular subvencionado": 0.5270562770562771,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.1660443722943725,
+      "N_ESTUDIANTES": 1848
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.04077401520387008,
+      "Municipal": 0.3234277816171389,
+      "Particular subvencionado": 0.635798203178991,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.92233586731168,
+      "N_ESTUDIANTES": 1447
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.11934032983508246,
+      "Municipal": 0.23238380809595202,
+      "Particular subvencionado": 0.6482758620689655,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.008221889055473,
+      "N_ESTUDIANTES": 3335
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.033478260869565214,
+      "Municipal": 0.40869565217391307,
+      "Particular subvencionado": 0.5578260869565217,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.965973913043478,
+      "N_ESTUDIANTES": 2300
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6724546172059984,
+      "Municipal": 0.04932912391475927,
+      "Particular subvencionado": 0.2782162588792423,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.771132596685082,
+      "N_ESTUDIANTES": 2534
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.3111864406779661,
+      "Municipal": 0.21491525423728813,
+      "Particular subvencionado": 0.4738983050847458,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.85828813559322,
+      "N_ESTUDIANTES": 2950
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.25427350427350426,
+      "Municipal": 0.1866096866096866,
+      "Particular subvencionado": 0.5591168091168092,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.797799145299145,
+      "N_ESTUDIANTES": 1404
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.3591197065688563,
+      "Municipal": 0.12737579193064355,
+      "Particular subvencionado": 0.5135045015005002,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.705845281760587,
+      "N_ESTUDIANTES": 2999
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.08333333333333333,
+      "Municipal": 0.3402777777777778,
+      "Particular subvencionado": 0.5763888888888888,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.795585317460318,
+      "N_ESTUDIANTES": 1008
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.18216947281258625,
+      "Municipal": 0.24344465912227436,
+      "Particular subvencionado": 0.5743858680651394,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.0105244272702185,
+      "N_ESTUDIANTES": 3623
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.04351851851851852,
+      "Municipal": 0.2916666666666667,
+      "Particular subvencionado": 0.6648148148148149,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.595351851851852,
+      "N_ESTUDIANTES": 2160
+    }
+  },
+  "2017": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6366726654669066,
+      "Municipal": 0.11057788442311538,
+      "Particular subvencionado": 0.252749450109978,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.422771445710858,
+      "N_ESTUDIANTES": 5001
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.20801929454326198,
+      "Municipal": 0.16219475429605065,
+      "Particular subvencionado": 0.6297859511606874,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.953301175761229,
+      "N_ESTUDIANTES": 3317
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8371954842543078,
+      "Municipal": 0.0255496137849079,
+      "Particular subvencionado": 0.13725490196078433,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.037510398098633,
+      "N_ESTUDIANTES": 1683
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.12624584717607973,
+      "Municipal": 0.2691029900332226,
+      "Particular subvencionado": 0.6046511627906976,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.615355481727575,
+      "N_ESTUDIANTES": 1505
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.2127929963287207,
+      "Municipal": 0.1746681728325332,
+      "Particular subvencionado": 0.6125388308387462,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.668870375600113,
+      "N_ESTUDIANTES": 7082
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.015069967707212056,
+      "Municipal": 0.30355220667384286,
+      "Particular subvencionado": 0.6813778256189451,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.8442841765339075,
+      "N_ESTUDIANTES": 929
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.09458999659748214,
+      "Municipal": 0.37019394351820345,
+      "Particular subvencionado": 0.5352160598843144,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.990792786662129,
+      "N_ESTUDIANTES": 2939
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.047058823529411764,
+      "Municipal": 0.40802139037433155,
+      "Particular subvencionado": 0.5449197860962567,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.8944812834224605,
+      "N_ESTUDIANTES": 1870
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.016666666666666666,
+      "Municipal": 0.43142857142857144,
+      "Particular subvencionado": 0.5519047619047619,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.732990476190476,
+      "N_ESTUDIANTES": 2100
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.037164093767867355,
+      "Municipal": 0.41966838193253286,
+      "Particular subvencionado": 0.5431675242995998,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.968902229845626,
+      "N_ESTUDIANTES": 1749
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.136687233032748,
+      "Municipal": 0.2710014238253441,
+      "Particular subvencionado": 0.5923113431419079,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.944247745609872,
+      "N_ESTUDIANTES": 2107
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.02574102964118565,
+      "Municipal": 0.3221528861154446,
+      "Particular subvencionado": 0.6521060842433697,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.8585569422776915,
+      "N_ESTUDIANTES": 1282
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.12767710049423395,
+      "Municipal": 0.3599670510708402,
+      "Particular subvencionado": 0.5123558484349259,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.818228995057661,
+      "N_ESTUDIANTES": 1214
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.032502708559046585,
+      "Municipal": 0.37703141928494044,
+      "Particular subvencionado": 0.590465872156013,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.667865655471289,
+      "N_ESTUDIANTES": 923
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.03278688524590164,
+      "Municipal": 0.16393442622950818,
+      "Particular subvencionado": 0.8032786885245902,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.692131147540984,
+      "N_ESTUDIANTES": 61
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.3220398800070584,
+      "Municipal": 0.2463384506793718,
+      "Particular subvencionado": 0.43162166931356977,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.326906652549851,
+      "N_ESTUDIANTES": 5667
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.11006738819685521,
+      "Municipal": 0.32816009801919543,
+      "Particular subvencionado": 0.5617725137839493,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.130067388196855,
+      "N_ESTUDIANTES": 4897
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.0560485754320411,
+      "Municipal": 0.3376926669780476,
+      "Particular subvencionado": 0.6062587575899112,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.975189163942082,
+      "N_ESTUDIANTES": 2141
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.04387990762124711,
+      "Municipal": 0.2407621247113164,
+      "Particular subvencionado": 0.7153579676674365,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.872528868360277,
+      "N_ESTUDIANTES": 1732
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8642951251646904,
+      "Municipal": 0.03557312252964427,
+      "Particular subvencionado": 0.10013175230566534,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.119973649538867,
+      "N_ESTUDIANTES": 1518
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.01568627450980392,
+      "Municipal": 0.5343137254901961,
+      "Particular subvencionado": 0.45,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.673019607843138,
+      "N_ESTUDIANTES": 1020
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.07446808510638298,
+      "Municipal": 0.3528368794326241,
+      "Particular subvencionado": 0.5726950354609929,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.9415780141843975,
+      "N_ESTUDIANTES": 564
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.04568527918781726,
+      "Municipal": 0.46446700507614214,
+      "Particular subvencionado": 0.48984771573604063,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.903451776649746,
+      "N_ESTUDIANTES": 394
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.053125,
+      "Municipal": 0.286875,
+      "Particular subvencionado": 0.66,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.6925937499999995,
+      "N_ESTUDIANTES": 1600
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.08996359854394176,
+      "Municipal": 0.29277171086843473,
+      "Particular subvencionado": 0.6172646905876235,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.182953718148726,
+      "N_ESTUDIANTES": 3846
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.08337845154304277,
+      "Municipal": 0.38927991337303736,
+      "Particular subvencionado": 0.5273416350839198,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.151050351922035,
+      "N_ESTUDIANTES": 1847
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.03774879890185312,
+      "Municipal": 0.3568977350720659,
+      "Particular subvencionado": 0.605353466026081,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.907385037748798,
+      "N_ESTUDIANTES": 1457
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.12631896291829967,
+      "Municipal": 0.22942417847452518,
+      "Particular subvencionado": 0.6442568586071752,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.995357250527585,
+      "N_ESTUDIANTES": 3317
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.02463891248937978,
+      "Municipal": 0.4201359388275276,
+      "Particular subvencionado": 0.5552251486830926,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.975169923534409,
+      "N_ESTUDIANTES": 2354
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6731593299571484,
+      "Municipal": 0.05921308920919361,
+      "Particular subvencionado": 0.26762758083365795,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.781869887027659,
+      "N_ESTUDIANTES": 2567
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.31641168289290683,
+      "Municipal": 0.21175243393602225,
+      "Particular subvencionado": 0.47183588317107095,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.829367176634213,
+      "N_ESTUDIANTES": 2876
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.25226480836236936,
+      "Municipal": 0.1902439024390244,
+      "Particular subvencionado": 0.5574912891986062,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.758285714285714,
+      "N_ESTUDIANTES": 1435
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.3350877192982456,
+      "Municipal": 0.12842105263157894,
+      "Particular subvencionado": 0.5364912280701755,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.693347368421053,
+      "N_ESTUDIANTES": 2850
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.08842897460018814,
+      "Municipal": 0.3565380997177799,
+      "Particular subvencionado": 0.555032925682032,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.783697083725306,
+      "N_ESTUDIANTES": 1063
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.19576574099532582,
+      "Municipal": 0.24113280175969207,
+      "Particular subvencionado": 0.5631014572449822,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.021138300797361,
+      "N_ESTUDIANTES": 3637
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.03490136570561457,
+      "Municipal": 0.3085483055134042,
+      "Particular subvencionado": 0.6565503287809813,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.617905918057663,
+      "N_ESTUDIANTES": 1977
+    }
+  },
+  "2018": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6169393647738209,
+      "Municipal": 0.11896053897978826,
+      "Particular subvencionado": 0.26410009624639075,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.418925890279114,
+      "N_ESTUDIANTES": 5195
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.21196283391405343,
+      "Municipal": 0.18147502903600465,
+      "Particular subvencionado": 0.6065621370499419,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.941318234610918,
+      "N_ESTUDIANTES": 3444
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8601769911504424,
+      "Municipal": 0.019469026548672566,
+      "Particular subvencionado": 0.12035398230088495,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.028011799410029,
+      "N_ESTUDIANTES": 1695
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.124282982791587,
+      "Municipal": 0.28425748884639895,
+      "Particular subvencionado": 0.591459528362014,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.616003824091778,
+      "N_ESTUDIANTES": 1569
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.2149913558903433,
+      "Municipal": 0.17152383304519633,
+      "Particular subvencionado": 0.6134848110644604,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.647740182761176,
+      "N_ESTUDIANTES": 8098
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.013958125623130608,
+      "Municipal": 0.3150548354935194,
+      "Particular subvencionado": 0.67098703888335,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.848404785643071,
+      "N_ESTUDIANTES": 1003
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.10063897763578275,
+      "Municipal": 0.38083067092651757,
+      "Particular subvencionado": 0.5185303514376997,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.011674121405751,
+      "N_ESTUDIANTES": 3130
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.02692377660542114,
+      "Municipal": 0.3276332545024559,
+      "Particular subvencionado": 0.6454429688921229,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.635497544114972,
+      "N_ESTUDIANTES": 5497
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.04162384378211716,
+      "Municipal": 0.4260020554984584,
+      "Particular subvencionado": 0.5323741007194245,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.909059609455293,
+      "N_ESTUDIANTES": 1946
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.01846015308419631,
+      "Municipal": 0.42638451148131473,
+      "Particular subvencionado": 0.5551553354344889,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.718253039171544,
+      "N_ESTUDIANTES": 2221
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.035114503816793895,
+      "Municipal": 0.4198473282442748,
+      "Particular subvencionado": 0.5450381679389313,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.9468447837150125,
+      "N_ESTUDIANTES": 1965
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.14364135407136322,
+      "Municipal": 0.2918572735590119,
+      "Particular subvencionado": 0.5645013723696248,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.962040256175664,
+      "N_ESTUDIANTES": 2186
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.01495581237253569,
+      "Municipal": 0.33786539768864715,
+      "Particular subvencionado": 0.6471787899388172,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.829034670292319,
+      "N_ESTUDIANTES": 1471
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.10553470919324578,
+      "Municipal": 0.18621013133208256,
+      "Particular subvencionado": 0.7082551594746717,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.49124296435272,
+      "N_ESTUDIANTES": 2132
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.13153961136023917,
+      "Municipal": 0.3452914798206278,
+      "Particular subvencionado": 0.523168908819133,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.8519656203288495,
+      "N_ESTUDIANTES": 1338
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.03489531405782652,
+      "Municipal": 0.3659022931206381,
+      "Particular subvencionado": 0.5992023928215354,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.741655034895314,
+      "N_ESTUDIANTES": 1003
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.011363636363636364,
+      "Municipal": 0.29545454545454547,
+      "Particular subvencionado": 0.6931818181818182,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.741704545454545,
+      "N_ESTUDIANTES": 88
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.33322259136212623,
+      "Municipal": 0.24335548172757476,
+      "Particular subvencionado": 0.423421926910299,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.345875415282392,
+      "N_ESTUDIANTES": 6020
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.10608095146748513,
+      "Municipal": 0.32514866679455207,
+      "Particular subvencionado": 0.5687703817379628,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.143681181661231,
+      "N_ESTUDIANTES": 5213
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.0545950864422202,
+      "Municipal": 0.34394904458598724,
+      "Particular subvencionado": 0.6014558689717925,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.996232939035487,
+      "N_ESTUDIANTES": 2198
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.04524361948955916,
+      "Municipal": 0.24651972157772623,
+      "Particular subvencionado": 0.7082366589327146,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.887401392111369,
+      "N_ESTUDIANTES": 1724
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8787675820495646,
+      "Municipal": 0.03014065639651708,
+      "Particular subvencionado": 0.09109176155391828,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.113523107836571,
+      "N_ESTUDIANTES": 1493
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.021780303030303032,
+      "Municipal": 0.5066287878787878,
+      "Particular subvencionado": 0.4715909090909091,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.6522064393939395,
+      "N_ESTUDIANTES": 1056
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.08928571428571429,
+      "Municipal": 0.3472222222222222,
+      "Particular subvencionado": 0.5634920634920635,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.900039682539682,
+      "N_ESTUDIANTES": 504
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.058486238532110095,
+      "Municipal": 0.4988532110091743,
+      "Particular subvencionado": 0.4426605504587156,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.0039793577981655,
+      "N_ESTUDIANTES": 872
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.040123456790123455,
+      "Municipal": 0.29444444444444445,
+      "Particular subvencionado": 0.6654320987654321,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.7256790123456796,
+      "N_ESTUDIANTES": 1620
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.0879486570002377,
+      "Municipal": 0.2876158782980746,
+      "Particular subvencionado": 0.6244354647016876,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.189648205371999,
+      "N_ESTUDIANTES": 4207
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.06938020351526364,
+      "Municipal": 0.39454209065679924,
+      "Particular subvencionado": 0.5360777058279371,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.123066604995374,
+      "N_ESTUDIANTES": 2162
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.03598484848484849,
+      "Municipal": 0.35164141414141414,
+      "Particular subvencionado": 0.6123737373737373,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.941944444444445,
+      "N_ESTUDIANTES": 1584
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.12371436967381721,
+      "Municipal": 0.2224507787246547,
+      "Particular subvencionado": 0.6538348516015281,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.971730825741992,
+      "N_ESTUDIANTES": 3403
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.0339329517579722,
+      "Municipal": 0.4088307440719542,
+      "Particular subvencionado": 0.5572363041700736,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.970171708912511,
+      "N_ESTUDIANTES": 2446
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6666666666666666,
+      "Municipal": 0.061488673139158574,
+      "Particular subvencionado": 0.27184466019417475,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.781007281553398,
+      "N_ESTUDIANTES": 2472
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.2849690251059667,
+      "Municipal": 0.2161721552005217,
+      "Particular subvencionado": 0.4988588196935116,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.820916204760352,
+      "N_ESTUDIANTES": 3067
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.2095771144278607,
+      "Municipal": 0.20211442786069653,
+      "Particular subvencionado": 0.5883084577114428,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.7149751243781095,
+      "N_ESTUDIANTES": 1608
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.3598260181890075,
+      "Municipal": 0.12099644128113879,
+      "Particular subvencionado": 0.5191775405298537,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.712562277580071,
+      "N_ESTUDIANTES": 2529
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.08487394957983194,
+      "Municipal": 0.36554621848739494,
+      "Particular subvencionado": 0.5495798319327732,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.835117647058824,
+      "N_ESTUDIANTES": 1190
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.12830957230142567,
+      "Municipal": 0.25162007035734124,
+      "Particular subvencionado": 0.6200703573412331,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.725500833179041,
+      "N_ESTUDIANTES": 5401
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.19127332601536773,
+      "Municipal": 0.23655323819978047,
+      "Particular subvencionado": 0.5721734357848518,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.038007683863886,
+      "N_ESTUDIANTES": 3644
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.041411764705882356,
+      "Municipal": 0.3256470588235294,
+      "Particular subvencionado": 0.6329411764705882,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.606272941176471,
+      "N_ESTUDIANTES": 2125
+    }
+  },
+  "2019": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6340344168260038,
+      "Municipal": 0.11854684512428298,
+      "Particular subvencionado": 0.2474187380497132,
+      "Slep": 0.0019120458891013384,
+      "PROMEDIO_NOTAS": 6.440284894837476,
+      "N_ESTUDIANTES": 5230
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.20407577497129736,
+      "Municipal": 0.18140068886337543,
+      "Particular subvencionado": 0.6145235361653272,
+      "Slep": 0.0020091848450057405,
+      "PROMEDIO_NOTAS": 5.963033869115958,
+      "N_ESTUDIANTES": 3484
+    },
+    "UNIVERSIDAD ACADEMIA DE HUMANISMO CRISTIANO": {
+      "Particular pagado": 0.06725146198830409,
+      "Municipal": 0.33771929824561403,
+      "Particular subvencionado": 0.5950292397660819,
+      "Slep": 0.0043859649122807015,
+      "PROMEDIO_NOTAS": 5.507909356725146,
+      "N_ESTUDIANTES": 684
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8478009259259259,
+      "Municipal": 0.02488425925925926,
+      "Particular subvencionado": 0.12731481481481483,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.065960648148148,
+      "N_ESTUDIANTES": 1728
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.11938382541720154,
+      "Municipal": 0.28177150192554556,
+      "Particular subvencionado": 0.5988446726572529,
+      "Slep": 0.003209242618741977,
+      "PROMEDIO_NOTAS": 5.654255455712452,
+      "N_ESTUDIANTES": 1558
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.22299107142857144,
+      "Municipal": 0.1703125,
+      "Particular subvencionado": 0.6066964285714286,
+      "Slep": 0.00078125,
+      "PROMEDIO_NOTAS": 5.6993426339285715,
+      "N_ESTUDIANTES": 8960
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.024704618689581095,
+      "Municipal": 0.2889366272824919,
+      "Particular subvencionado": 0.686358754027927,
+      "Slep": 0.0010741138560687433,
+      "PROMEDIO_NOTAS": 5.883823845327605,
+      "N_ESTUDIANTES": 931
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.09159385357035252,
+      "Municipal": 0.40042181379933717,
+      "Particular subvencionado": 0.5079843326303103,
+      "Slep": 0.0012051822838204278,
+      "PROMEDIO_NOTAS": 5.99482976800241,
+      "N_ESTUDIANTES": 3319
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.029438161909890504,
+      "Municipal": 0.32920481062645846,
+      "Particular subvencionado": 0.6413570274636511,
+      "Slep": 0.008975049362771496,
+      "PROMEDIO_NOTAS": 5.648323460779035,
+      "N_ESTUDIANTES": 5571
+    },
+    "UNIVERSIDAD BERNARDO O'HIGGINS": {
+      "Particular pagado": 0.039721946375372394,
+      "Municipal": 0.2423038728897716,
+      "Particular subvencionado": 0.717974180734856,
+      "Slep": 0.003972194637537239,
+      "PROMEDIO_NOTAS": 5.52519364448858,
+      "N_ESTUDIANTES": 1007
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.058973055414336555,
+      "Municipal": 0.40772750381291306,
+      "Particular subvencionado": 0.5332994407727504,
+      "Slep": 0.0005083884087442806,
+      "PROMEDIO_NOTAS": 5.928362989323843,
+      "N_ESTUDIANTES": 1967
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.02044525215810995,
+      "Municipal": 0.4420717855520218,
+      "Particular subvencionado": 0.5374829622898682,
+      "Slep": 0.0372557928214448,
+      "PROMEDIO_NOTAS": 5.735447523852794,
+      "N_ESTUDIANTES": 2201
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.04859563085153812,
+      "Municipal": 0.44360231832367364,
+      "Particular subvencionado": 0.5078020508247882,
+      "Slep": 0.00044583147570218456,
+      "PROMEDIO_NOTAS": 5.978751671868034,
+      "N_ESTUDIANTES": 2243
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.18610074626865672,
+      "Municipal": 0.29011194029850745,
+      "Particular subvencionado": 0.5237873134328358,
+      "Slep": 0.03871268656716418,
+      "PROMEDIO_NOTAS": 5.995657649253731,
+      "N_ESTUDIANTES": 2144
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.02162516382699869,
+      "Municipal": 0.33551769331585846,
+      "Particular subvencionado": 0.6428571428571429,
+      "Slep": 0.007208387942332897,
+      "PROMEDIO_NOTAS": 5.7736697247706426,
+      "N_ESTUDIANTES": 1526
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.1414189837008629,
+      "Municipal": 0.18120805369127516,
+      "Particular subvencionado": 0.677372962607862,
+      "Slep": 0.014381591562799617,
+      "PROMEDIO_NOTAS": 5.516534036433365,
+      "N_ESTUDIANTES": 2086
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.11532846715328467,
+      "Municipal": 0.3883211678832117,
+      "Particular subvencionado": 0.49635036496350365,
+      "Slep": 0.006569343065693431,
+      "PROMEDIO_NOTAS": 5.89251094890511,
+      "N_ESTUDIANTES": 1370
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.04061895551257253,
+      "Municipal": 0.4090909090909091,
+      "Particular subvencionado": 0.5502901353965184,
+      "Slep": 0.04448742746615087,
+      "PROMEDIO_NOTAS": 5.752717601547389,
+      "N_ESTUDIANTES": 1034
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.0,
+      "Municipal": 0.3469387755102041,
+      "Particular subvencionado": 0.6530612244897959,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.835918367346938,
+      "N_ESTUDIANTES": 98
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.3551169348150605,
+      "Municipal": 0.24000663459943605,
+      "Particular subvencionado": 0.4048764305855034,
+      "Slep": 0.0023221098026206667,
+      "PROMEDIO_NOTAS": 6.366130369878919,
+      "N_ESTUDIANTES": 6029
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.11190903650508677,
+      "Municipal": 0.3249551166965889,
+      "Particular subvencionado": 0.5631358467983244,
+      "Slep": 0.0007979253939756633,
+      "PROMEDIO_NOTAS": 6.185479752643128,
+      "N_ESTUDIANTES": 5013
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.0504774897680764,
+      "Municipal": 0.3656207366984993,
+      "Particular subvencionado": 0.5839017735334243,
+      "Slep": 0.022282855843565257,
+      "PROMEDIO_NOTAS": 6.011541609822646,
+      "N_ESTUDIANTES": 2199
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.1413673232908459,
+      "Municipal": 0.27578215527230593,
+      "Particular subvencionado": 0.5828505214368482,
+      "Slep": 0.08980301274623406,
+      "PROMEDIO_NOTAS": 5.880527230590962,
+      "N_ESTUDIANTES": 1726
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8985896574882472,
+      "Municipal": 0.03089321692411014,
+      "Particular subvencionado": 0.07051712558764271,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.134325050369376,
+      "N_ESTUDIANTES": 1489
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.025022341376228777,
+      "Municipal": 0.5379803395889187,
+      "Particular subvencionado": 0.43699731903485256,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.666621983914209,
+      "N_ESTUDIANTES": 1119
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.13246268656716417,
+      "Municipal": 0.35074626865671643,
+      "Particular subvencionado": 0.5167910447761194,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.9219962686567165,
+      "N_ESTUDIANTES": 536
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.08108108108108109,
+      "Municipal": 0.5096525096525096,
+      "Particular subvencionado": 0.4092664092664093,
+      "Slep": 0.0019305019305019305,
+      "PROMEDIO_NOTAS": 5.991862934362934,
+      "N_ESTUDIANTES": 1036
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.05886575735821967,
+      "Municipal": 0.3223259152907394,
+      "Particular subvencionado": 0.618808327351041,
+      "Slep": 0.002871500358937545,
+      "PROMEDIO_NOTAS": 5.725039483129936,
+      "N_ESTUDIANTES": 1393
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.10981308411214953,
+      "Municipal": 0.29042056074766354,
+      "Particular subvencionado": 0.599766355140187,
+      "Slep": 0.007476635514018692,
+      "PROMEDIO_NOTAS": 6.18154906542056,
+      "N_ESTUDIANTES": 4280
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.07746126936531735,
+      "Municipal": 0.4032983508245877,
+      "Particular subvencionado": 0.519240379810095,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.1403448275862065,
+      "N_ESTUDIANTES": 2001
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.03884638022366098,
+      "Municipal": 0.3301942319011183,
+      "Particular subvencionado": 0.6309593878752208,
+      "Slep": 0.0017657445556209534,
+      "PROMEDIO_NOTAS": 5.928316656856976,
+      "N_ESTUDIANTES": 1699
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.14446085672082717,
+      "Municipal": 0.21949778434268832,
+      "Particular subvencionado": 0.6360413589364845,
+      "Slep": 0.0035450516986706058,
+      "PROMEDIO_NOTAS": 6.001252584933531,
+      "N_ESTUDIANTES": 3385
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.03584672435105068,
+      "Municipal": 0.4050267820354347,
+      "Particular subvencionado": 0.5591264936135146,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.978545529460239,
+      "N_ESTUDIANTES": 2427
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.7089883111648528,
+      "Municipal": 0.053204353083434096,
+      "Particular subvencionado": 0.237807335751713,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.819165659008465,
+      "N_ESTUDIANTES": 2481
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.2999375780274657,
+      "Municipal": 0.19694132334581774,
+      "Particular subvencionado": 0.5031210986267166,
+      "Slep": 0.00031210986267166043,
+      "PROMEDIO_NOTAS": 5.843055555555556,
+      "N_ESTUDIANTES": 3204
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.2082527401676338,
+      "Municipal": 0.20309477756286268,
+      "Particular subvencionado": 0.5886524822695035,
+      "Slep": 0.0025789813023855577,
+      "PROMEDIO_NOTAS": 5.762649903288201,
+      "N_ESTUDIANTES": 1551
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.36233901844761573,
+      "Municipal": 0.13261399234249913,
+      "Particular subvencionado": 0.5050469892098851,
+      "Slep": 0.0038287504350852765,
+      "PROMEDIO_NOTAS": 5.7497354681517585,
+      "N_ESTUDIANTES": 2873
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.08139534883720931,
+      "Municipal": 0.3653100775193798,
+      "Particular subvencionado": 0.5532945736434108,
+      "Slep": 0.0009689922480620155,
+      "PROMEDIO_NOTAS": 5.809660852713178,
+      "N_ESTUDIANTES": 1032
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.14972200158856236,
+      "Municipal": 0.22855440826052423,
+      "Particular subvencionado": 0.6217235901509134,
+      "Slep": 0.0007942811755361397,
+      "PROMEDIO_NOTAS": 5.761298649722002,
+      "N_ESTUDIANTES": 5036
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.22607722439843314,
+      "Municipal": 0.22887520984890877,
+      "Particular subvencionado": 0.5450475657526581,
+      "Slep": 0.0013989927252378287,
+      "PROMEDIO_NOTAS": 6.084653049804141,
+      "N_ESTUDIANTES": 3574
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.056824838898652606,
+      "Municipal": 0.3169302870533099,
+      "Particular subvencionado": 0.6262448740480375,
+      "Slep": 0.0029291154071470417,
+      "PROMEDIO_NOTAS": 5.617387229056824,
+      "N_ESTUDIANTES": 1707
+    }
+  },
+  "2020": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6257541478129713,
+      "Municipal": 0.11255656108597285,
+      "Particular subvencionado": 0.2616892911010558,
+      "Slep": 0.003770739064856712,
+      "PROMEDIO_NOTAS": 6.465162141779789,
+      "N_ESTUDIANTES": 5304
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.19298245614035087,
+      "Municipal": 0.16589719913819637,
+      "Particular subvencionado": 0.6411203447214527,
+      "Slep": 0.002770083102493075,
+      "PROMEDIO_NOTAS": 5.966829793782702,
+      "N_ESTUDIANTES": 3249
+    },
+    "UNIVERSIDAD ACADEMIA DE HUMANISMO CRISTIANO": {
+      "Particular pagado": 0.046898638426626324,
+      "Municipal": 0.3540090771558245,
+      "Particular subvencionado": 0.5990922844175491,
+      "Slep": 0.01361573373676248,
+      "PROMEDIO_NOTAS": 5.561618759455371,
+      "N_ESTUDIANTES": 661
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8352306770521271,
+      "Municipal": 0.028759736369083282,
+      "Particular subvencionado": 0.1360095865787897,
+      "Slep": 0.0005991611743559018,
+      "PROMEDIO_NOTAS": 6.155662073097663,
+      "N_ESTUDIANTES": 1669
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.11773049645390071,
+      "Municipal": 0.27801418439716313,
+      "Particular subvencionado": 0.6042553191489362,
+      "Slep": 0.0070921985815602835,
+      "PROMEDIO_NOTAS": 5.677588652482269,
+      "N_ESTUDIANTES": 1410
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.23921618526530092,
+      "Municipal": 0.16159816770581498,
+      "Particular subvencionado": 0.5991856470288841,
+      "Slep": 0.01157908130805446,
+      "PROMEDIO_NOTAS": 5.741699961827204,
+      "N_ESTUDIANTES": 7859
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.02144469525959368,
+      "Municipal": 0.291196388261851,
+      "Particular subvencionado": 0.6873589164785553,
+      "Slep": 0.003386004514672686,
+      "PROMEDIO_NOTAS": 5.921489841986456,
+      "N_ESTUDIANTES": 886
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.08670694864048338,
+      "Municipal": 0.3894259818731118,
+      "Particular subvencionado": 0.5238670694864048,
+      "Slep": 0.0021148036253776435,
+      "PROMEDIO_NOTAS": 6.015480362537764,
+      "N_ESTUDIANTES": 3310
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.03228636602912792,
+      "Municipal": 0.3209334971047552,
+      "Particular subvencionado": 0.6467801368661169,
+      "Slep": 0.011230040357957537,
+      "PROMEDIO_NOTAS": 5.682674153360239,
+      "N_ESTUDIANTES": 5699
+    },
+    "UNIVERSIDAD BERNARDO O'HIGGINS": {
+      "Particular pagado": 0.045454545454545456,
+      "Municipal": 0.18301435406698566,
+      "Particular subvencionado": 0.7715311004784688,
+      "Slep": 0.009569377990430622,
+      "PROMEDIO_NOTAS": 5.594688995215311,
+      "N_ESTUDIANTES": 836
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.05437893531768746,
+      "Municipal": 0.3949627933600458,
+      "Particular subvencionado": 0.5506582713222667,
+      "Slep": 0.07097882083571837,
+      "PROMEDIO_NOTAS": 5.961276473955352,
+      "N_ESTUDIANTES": 1747
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.021912350597609563,
+      "Municipal": 0.40786852589641437,
+      "Particular subvencionado": 0.5702191235059761,
+      "Slep": 0.037848605577689244,
+      "PROMEDIO_NOTAS": 5.791588645418327,
+      "N_ESTUDIANTES": 2008
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.03652561247216036,
+      "Municipal": 0.42538975501113585,
+      "Particular subvencionado": 0.5380846325167038,
+      "Slep": 0.00044543429844097997,
+      "PROMEDIO_NOTAS": 6.002026726057906,
+      "N_ESTUDIANTES": 2245
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.18277945619335348,
+      "Municipal": 0.29003021148036257,
+      "Particular subvencionado": 0.527190332326284,
+      "Slep": 0.054380664652567974,
+      "PROMEDIO_NOTAS": 6.0290433031218535,
+      "N_ESTUDIANTES": 1986
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.02826379542395693,
+      "Municipal": 0.3135935397039031,
+      "Particular subvencionado": 0.65814266487214,
+      "Slep": 0.013458950201884253,
+      "PROMEDIO_NOTAS": 5.731749663526244,
+      "N_ESTUDIANTES": 1486
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.1467136150234742,
+      "Municipal": 0.17312206572769953,
+      "Particular subvencionado": 0.6801643192488263,
+      "Slep": 0.02112676056338028,
+      "PROMEDIO_NOTAS": 5.588656103286385,
+      "N_ESTUDIANTES": 1704
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.10876623376623376,
+      "Municipal": 0.37743506493506496,
+      "Particular subvencionado": 0.5137987012987013,
+      "Slep": 0.008116883116883116,
+      "PROMEDIO_NOTAS": 5.933798701298701,
+      "N_ESTUDIANTES": 1232
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.05042016806722689,
+      "Municipal": 0.40336134453781514,
+      "Particular subvencionado": 0.5462184873949579,
+      "Slep": 0.0392156862745098,
+      "PROMEDIO_NOTAS": 5.845364145658263,
+      "N_ESTUDIANTES": 714
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.0,
+      "Municipal": 0.288135593220339,
+      "Particular subvencionado": 0.711864406779661,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.914322033898305,
+      "N_ESTUDIANTES": 118
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.33216476774758985,
+      "Municipal": 0.23751095530236635,
+      "Particular subvencionado": 0.4303242769500438,
+      "Slep": 0.006310254163014899,
+      "PROMEDIO_NOTAS": 6.38487291849255,
+      "N_ESTUDIANTES": 5705
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.1162267239615306,
+      "Municipal": 0.33394720687538365,
+      "Particular subvencionado": 0.5498260691630857,
+      "Slep": 0.036013914466953144,
+      "PROMEDIO_NOTAS": 6.19720073664825,
+      "N_ESTUDIANTES": 4887
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.06771578445398188,
+      "Municipal": 0.35097758702908916,
+      "Particular subvencionado": 0.5813066285169289,
+      "Slep": 0.02861230329041488,
+      "PROMEDIO_NOTAS": 6.038211731044349,
+      "N_ESTUDIANTES": 2097
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.12184343434343434,
+      "Municipal": 0.2828282828282828,
+      "Particular subvencionado": 0.5953282828282829,
+      "Slep": 0.09848484848484848,
+      "PROMEDIO_NOTAS": 5.910334595959595,
+      "N_ESTUDIANTES": 1584
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8598312783906554,
+      "Municipal": 0.031148604802076575,
+      "Particular subvencionado": 0.109020116807268,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.225736534717716,
+      "N_ESTUDIANTES": 1541
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.025592417061611375,
+      "Municipal": 0.5383886255924171,
+      "Particular subvencionado": 0.43601895734597157,
+      "Slep": 0.0018957345971563982,
+      "PROMEDIO_NOTAS": 5.722274881516587,
+      "N_ESTUDIANTES": 1055
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.14655172413793102,
+      "Municipal": 0.3577586206896552,
+      "Particular subvencionado": 0.4956896551724138,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.9804094827586205,
+      "N_ESTUDIANTES": 464
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.09375,
+      "Municipal": 0.48928571428571427,
+      "Particular subvencionado": 0.41696428571428573,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.028678571428571,
+      "N_ESTUDIANTES": 1120
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.04477611940298507,
+      "Municipal": 0.3125,
+      "Particular subvencionado": 0.6427238805970149,
+      "Slep": 0.0037313432835820895,
+      "PROMEDIO_NOTAS": 5.763694029850747,
+      "N_ESTUDIANTES": 1072
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.1133490464966788,
+      "Municipal": 0.3025498178701521,
+      "Particular subvencionado": 0.584101135633169,
+      "Slep": 0.009213627598028712,
+      "PROMEDIO_NOTAS": 6.18934004713949,
+      "N_ESTUDIANTES": 4667
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.0887218045112782,
+      "Municipal": 0.3659147869674185,
+      "Particular subvencionado": 0.5453634085213033,
+      "Slep": 0.0005012531328320802,
+      "PROMEDIO_NOTAS": 6.201593984962406,
+      "N_ESTUDIANTES": 1995
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.04152933421226104,
+      "Municipal": 0.33223467369808835,
+      "Particular subvencionado": 0.6262359920896506,
+      "Slep": 0.25972313777191824,
+      "PROMEDIO_NOTAS": 5.977943309162822,
+      "N_ESTUDIANTES": 1517
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.13062908215881747,
+      "Municipal": 0.21966311447232725,
+      "Particular subvencionado": 0.6497078033688553,
+      "Slep": 0.0034376074252320385,
+      "PROMEDIO_NOTAS": 6.026452389137161,
+      "N_ESTUDIANTES": 2909
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.028431808085295423,
+      "Municipal": 0.3936028431808085,
+      "Particular subvencionado": 0.577965348733896,
+      "Slep": 0.03998223011994669,
+      "PROMEDIO_NOTAS": 5.982119058196357,
+      "N_ESTUDIANTES": 2251
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.7111801242236024,
+      "Municipal": 0.05201863354037267,
+      "Particular subvencionado": 0.23680124223602483,
+      "Slep": 0.006599378881987578,
+      "PROMEDIO_NOTAS": 5.921552795031056,
+      "N_ESTUDIANTES": 2576
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.287758346581876,
+      "Municipal": 0.1809220985691574,
+      "Particular subvencionado": 0.5313195548489666,
+      "Slep": 0.0034976152623211448,
+      "PROMEDIO_NOTAS": 5.838273449920508,
+      "N_ESTUDIANTES": 3145
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.22274881516587677,
+      "Municipal": 0.1956668923493568,
+      "Particular subvencionado": 0.5815842924847664,
+      "Slep": 0.002031144211238998,
+      "PROMEDIO_NOTAS": 5.8078808395396075,
+      "N_ESTUDIANTES": 1477
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.3421516754850088,
+      "Municipal": 0.13686067019400353,
+      "Particular subvencionado": 0.5209876543209877,
+      "Slep": 0.0031746031746031746,
+      "PROMEDIO_NOTAS": 5.808705467372135,
+      "N_ESTUDIANTES": 2835
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.08237986270022883,
+      "Municipal": 0.36727688787185353,
+      "Particular subvencionado": 0.5503432494279176,
+      "Slep": 0.005720823798627002,
+      "PROMEDIO_NOTAS": 5.843787185354691,
+      "N_ESTUDIANTES": 874
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.16201975850713501,
+      "Municipal": 0.22283205268935236,
+      "Particular subvencionado": 0.6151481888035126,
+      "Slep": 0.023710208562019757,
+      "PROMEDIO_NOTAS": 5.8360263446761795,
+      "N_ESTUDIANTES": 4555
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.23365384615384616,
+      "Municipal": 0.20256410256410257,
+      "Particular subvencionado": 0.5637820512820513,
+      "Slep": 0.011858974358974358,
+      "PROMEDIO_NOTAS": 6.137378205128205,
+      "N_ESTUDIANTES": 3120
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.06016847172081829,
+      "Municipal": 0.3110709987966306,
+      "Particular subvencionado": 0.6287605294825511,
+      "Slep": 0.009025270758122744,
+      "PROMEDIO_NOTAS": 5.616534296028881,
+      "N_ESTUDIANTES": 1662
+    }
+  },
+  "2021": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.6386986301369864,
+      "Municipal": 0.11358447488584475,
+      "Particular subvencionado": 0.24771689497716895,
+      "Slep": 0.004375951293759513,
+      "PROMEDIO_NOTAS": 6.522964231354642,
+      "N_ESTUDIANTES": 5256
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.1869747899159664,
+      "Municipal": 0.20413165266106442,
+      "Particular subvencionado": 0.6088935574229691,
+      "Slep": 0.03466386554621849,
+      "PROMEDIO_NOTAS": 6.081953781512605,
+      "N_ESTUDIANTES": 2856
+    },
+    "UNIVERSIDAD ACADEMIA DE HUMANISMO CRISTIANO": {
+      "Particular pagado": 0.0664451827242525,
+      "Municipal": 0.3388704318936877,
+      "Particular subvencionado": 0.5946843853820598,
+      "Slep": 0.014950166112956811,
+      "PROMEDIO_NOTAS": 5.645830564784053,
+      "N_ESTUDIANTES": 602
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8366583541147132,
+      "Municipal": 0.03428927680798005,
+      "Particular subvencionado": 0.12905236907730674,
+      "Slep": 0.0012468827930174563,
+      "PROMEDIO_NOTAS": 6.26219451371571,
+      "N_ESTUDIANTES": 1604
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.10321324245374879,
+      "Municipal": 0.32035053554040893,
+      "Particular subvencionado": 0.5764362220058422,
+      "Slep": 0.008763388510223954,
+      "PROMEDIO_NOTAS": 5.778490749756573,
+      "N_ESTUDIANTES": 1027
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.22746106586655238,
+      "Municipal": 0.17316759537076726,
+      "Particular subvencionado": 0.5993713387626803,
+      "Slep": 0.017145306472353194,
+      "PROMEDIO_NOTAS": 5.841734533504787,
+      "N_ESTUDIANTES": 6999
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.010403120936280884,
+      "Municipal": 0.31859557867360205,
+      "Particular subvencionado": 0.6710013003901171,
+      "Slep": 0.015604681404421327,
+      "PROMEDIO_NOTAS": 6.009895968790636,
+      "N_ESTUDIANTES": 769
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.09864283349884144,
+      "Municipal": 0.37040714995034757,
+      "Particular subvencionado": 0.530950016550811,
+      "Slep": 0.019860973187686197,
+      "PROMEDIO_NOTAS": 6.096977821913274,
+      "N_ESTUDIANTES": 3021
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.036491536601450866,
+      "Municipal": 0.31061771817981976,
+      "Particular subvencionado": 0.6528907452187294,
+      "Slep": 0.016706968564519673,
+      "PROMEDIO_NOTAS": 5.727210375906793,
+      "N_ESTUDIANTES": 4549
+    },
+    "UNIVERSIDAD BERNARDO O'HIGGINS": {
+      "Particular pagado": 0.039927404718693285,
+      "Municipal": 0.28765880217785844,
+      "Particular subvencionado": 0.6724137931034483,
+      "Slep": 0.014519056261343012,
+      "PROMEDIO_NOTAS": 5.9650998185117965,
+      "N_ESTUDIANTES": 1102
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.0499691548426897,
+      "Municipal": 0.42072794571252314,
+      "Particular subvencionado": 0.5293028994447871,
+      "Slep": 0.06971005552128316,
+      "PROMEDIO_NOTAS": 6.072473781616286,
+      "N_ESTUDIANTES": 1621
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.030849825378346914,
+      "Municipal": 0.4470314318975553,
+      "Particular subvencionado": 0.5221187427240978,
+      "Slep": 0.04423748544819558,
+      "PROMEDIO_NOTAS": 5.948242142025611,
+      "N_ESTUDIANTES": 1718
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.04887585532746823,
+      "Municipal": 0.42424242424242425,
+      "Particular subvencionado": 0.5268817204301075,
+      "Slep": 0.013685239491691105,
+      "PROMEDIO_NOTAS": 6.122306940371456,
+      "N_ESTUDIANTES": 2046
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.16028062601187265,
+      "Municipal": 0.28494333513221803,
+      "Particular subvencionado": 0.5547760388559093,
+      "Slep": 0.05936319481921209,
+      "PROMEDIO_NOTAS": 6.153119266055046,
+      "N_ESTUDIANTES": 1853
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.01795142555438226,
+      "Municipal": 0.3495248152059134,
+      "Particular subvencionado": 0.6325237592397043,
+      "Slep": 0.011615628299894404,
+      "PROMEDIO_NOTAS": 5.7989651531151,
+      "N_ESTUDIANTES": 947
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.1324728260869565,
+      "Municipal": 0.19972826086956522,
+      "Particular subvencionado": 0.6677989130434783,
+      "Slep": 0.034646739130434784,
+      "PROMEDIO_NOTAS": 5.727350543478261,
+      "N_ESTUDIANTES": 1472
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.09885931558935361,
+      "Municipal": 0.4011406844106464,
+      "Particular subvencionado": 0.5,
+      "Slep": 0.02091254752851711,
+      "PROMEDIO_NOTAS": 6.048336501901141,
+      "N_ESTUDIANTES": 1052
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.05131761442441054,
+      "Municipal": 0.3647711511789182,
+      "Particular subvencionado": 0.5839112343966713,
+      "Slep": 0.3342579750346741,
+      "PROMEDIO_NOTAS": 5.9599167822468795,
+      "N_ESTUDIANTES": 721
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.0,
+      "Municipal": 0.3037037037037037,
+      "Particular subvencionado": 0.6962962962962963,
+      "Slep": 0.007407407407407408,
+      "PROMEDIO_NOTAS": 5.93637037037037,
+      "N_ESTUDIANTES": 135
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.357388939256573,
+      "Municipal": 0.22520398912058023,
+      "Particular subvencionado": 0.4174070716228468,
+      "Slep": 0.008522212148685404,
+      "PROMEDIO_NOTAS": 6.456070716228468,
+      "N_ESTUDIANTES": 5515
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.11764705882352941,
+      "Municipal": 0.307843137254902,
+      "Particular subvencionado": 0.5745098039215686,
+      "Slep": 0.034858387799564274,
+      "PROMEDIO_NOTAS": 6.287459694989106,
+      "N_ESTUDIANTES": 4590
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.056915196357427436,
+      "Municipal": 0.37393284006829824,
+      "Particular subvencionado": 0.5691519635742743,
+      "Slep": 0.027888446215139442,
+      "PROMEDIO_NOTAS": 6.152094479225953,
+      "N_ESTUDIANTES": 1757
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.1232876712328767,
+      "Municipal": 0.28262436914203315,
+      "Particular subvencionado": 0.5940879596250901,
+      "Slep": 0.10814708002883922,
+      "PROMEDIO_NOTAS": 6.03534967555876,
+      "N_ESTUDIANTES": 1387
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8496583143507973,
+      "Municipal": 0.03492786636294609,
+      "Particular subvencionado": 0.11541381928625664,
+      "Slep": 0.0007593014426727411,
+      "PROMEDIO_NOTAS": 6.276598329536827,
+      "N_ESTUDIANTES": 1317
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.023001095290251915,
+      "Municipal": 0.5728368017524644,
+      "Particular subvencionado": 0.40416210295728366,
+      "Slep": 0.04819277108433735,
+      "PROMEDIO_NOTAS": 5.85157721796276,
+      "N_ESTUDIANTES": 913
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.13219616204690832,
+      "Municipal": 0.3773987206823028,
+      "Particular subvencionado": 0.4904051172707889,
+      "Slep": 0.0021321961620469083,
+      "PROMEDIO_NOTAS": 6.067846481876333,
+      "N_ESTUDIANTES": 469
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.08482142857142858,
+      "Municipal": 0.5011160714285714,
+      "Particular subvencionado": 0.4140625,
+      "Slep": 0.029017857142857144,
+      "PROMEDIO_NOTAS": 6.1370982142857144,
+      "N_ESTUDIANTES": 896
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.04738154613466334,
+      "Municipal": 0.3399833748960931,
+      "Particular subvencionado": 0.6126350789692435,
+      "Slep": 0.0798004987531172,
+      "PROMEDIO_NOTAS": 5.8048545303408146,
+      "N_ESTUDIANTES": 1203
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.10755202244563947,
+      "Municipal": 0.3069908814589666,
+      "Particular subvencionado": 0.585457096095394,
+      "Slep": 0.010755202244563947,
+      "PROMEDIO_NOTAS": 6.269132569558102,
+      "N_ESTUDIANTES": 4277
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.09157894736842105,
+      "Municipal": 0.3968421052631579,
+      "Particular subvencionado": 0.511578947368421,
+      "Slep": 0.015263157894736841,
+      "PROMEDIO_NOTAS": 6.2596,
+      "N_ESTUDIANTES": 1900
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.04591104734576758,
+      "Municipal": 0.3199426111908178,
+      "Particular subvencionado": 0.6341463414634146,
+      "Slep": 0.2417503586800574,
+      "PROMEDIO_NOTAS": 6.111449067431852,
+      "N_ESTUDIANTES": 1394
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.1510396233817183,
+      "Municipal": 0.2043938799529227,
+      "Particular subvencionado": 0.6445664966653589,
+      "Slep": 0.03962338171832091,
+      "PROMEDIO_NOTAS": 6.152738328756375,
+      "N_ESTUDIANTES": 2549
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.036178107606679034,
+      "Municipal": 0.3937847866419295,
+      "Particular subvencionado": 0.5700371057513914,
+      "Slep": 0.03432282003710575,
+      "PROMEDIO_NOTAS": 6.055482374768089,
+      "N_ESTUDIANTES": 2156
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6525011066843737,
+      "Municipal": 0.06640106241699867,
+      "Particular subvencionado": 0.2810978308986277,
+      "Slep": 0.007525453740593183,
+      "PROMEDIO_NOTAS": 6.074745462594068,
+      "N_ESTUDIANTES": 2259
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.26722566532993075,
+      "Municipal": 0.1895734597156398,
+      "Particular subvencionado": 0.5432008749544295,
+      "Slep": 0.005833029529711994,
+      "PROMEDIO_NOTAS": 5.9048559970834855,
+      "N_ESTUDIANTES": 2743
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.20943708609271522,
+      "Municipal": 0.20695364238410596,
+      "Particular subvencionado": 0.5836092715231788,
+      "Slep": 0.0074503311258278145,
+      "PROMEDIO_NOTAS": 5.958038079470199,
+      "N_ESTUDIANTES": 1208
+    },
+    "UNIVERSIDAD GABRIELA MISTRAL": {
+      "Particular pagado": 0.323943661971831,
+      "Municipal": 0.2676056338028169,
+      "Particular subvencionado": 0.4084507042253521,
+      "Slep": 0.028169014084507043,
+      "PROMEDIO_NOTAS": 5.735633802816902,
+      "N_ESTUDIANTES": 71
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.2073007367716008,
+      "Municipal": 0.2056262558606832,
+      "Particular subvencionado": 0.5870730073677161,
+      "Slep": 0.012056262558606833,
+      "PROMEDIO_NOTAS": 5.971108506363027,
+      "N_ESTUDIANTES": 2986
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.0672782874617737,
+      "Municipal": 0.3577981651376147,
+      "Particular subvencionado": 0.5749235474006116,
+      "Slep": 0.024464831804281346,
+      "PROMEDIO_NOTAS": 5.8852905198776755,
+      "N_ESTUDIANTES": 654
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.14545454545454545,
+      "Municipal": 0.2367464114832536,
+      "Particular subvencionado": 0.6177990430622009,
+      "Slep": 0.030430622009569377,
+      "PROMEDIO_NOTAS": 5.931883253588516,
+      "N_ESTUDIANTES": 5225
+    },
+    "UNIVERSIDAD SANTO TOMAS": {
+      "Particular pagado": 0.05511539786427833,
+      "Municipal": 0.3100241129865656,
+      "Particular subvencionado": 0.634860489149156,
+      "Slep": 0.038580778504994834,
+      "PROMEDIO_NOTAS": 5.6934963830520156,
+      "N_ESTUDIANTES": 2903
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.25409537677466326,
+      "Municipal": 0.21295959228248998,
+      "Particular subvencionado": 0.5329450309428467,
+      "Slep": 0.026574444848926102,
+      "PROMEDIO_NOTAS": 6.2655733527484525,
+      "N_ESTUDIANTES": 2747
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.05821025195482189,
+      "Municipal": 0.3205907906168549,
+      "Particular subvencionado": 0.6211989574283232,
+      "Slep": 0.016507384882710686,
+      "PROMEDIO_NOTAS": 5.691659426585578,
+      "N_ESTUDIANTES": 1151
+    }
+  },
+  "2022": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.5983621812767541,
+      "Municipal": 0.11390284757118928,
+      "Particular subvencionado": 0.2877349711520566,
+      "Slep": 0.003722315280104225,
+      "PROMEDIO_NOTAS": 6.572644705006514,
+      "N_ESTUDIANTES": 5373
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.1814051031108004,
+      "Municipal": 0.2023767913317022,
+      "Particular subvencionado": 0.6162181055574973,
+      "Slep": 0.03460328556448794,
+      "PROMEDIO_NOTAS": 6.194680181754631,
+      "N_ESTUDIANTES": 2861
+    },
+    "UNIVERSIDAD ACADEMIA DE HUMANISMO CRISTIANO": {
+      "Particular pagado": 0.05863192182410423,
+      "Municipal": 0.3550488599348534,
+      "Particular subvencionado": 0.5863192182410424,
+      "Slep": 0.011400651465798045,
+      "PROMEDIO_NOTAS": 5.696058631921824,
+      "N_ESTUDIANTES": 614
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.7925736235595391,
+      "Municipal": 0.026888604353393086,
+      "Particular subvencionado": 0.18053777208706787,
+      "Slep": 0.0006402048655569782,
+      "PROMEDIO_NOTAS": 6.408540332906529,
+      "N_ESTUDIANTES": 1562
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.09424520433694746,
+      "Municipal": 0.29357798165137616,
+      "Particular subvencionado": 0.6121768140116765,
+      "Slep": 0.0158465387823186,
+      "PROMEDIO_NOTAS": 5.90442869057548,
+      "N_ESTUDIANTES": 1199
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.21666901309305928,
+      "Municipal": 0.18316204420667323,
+      "Particular subvencionado": 0.6001689427002674,
+      "Slep": 0.015345628607630578,
+      "PROMEDIO_NOTAS": 5.935967900886949,
+      "N_ESTUDIANTES": 7103
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.024390243902439025,
+      "Municipal": 0.3170731707317073,
+      "Particular subvencionado": 0.6585365853658537,
+      "Slep": 0.011477761836441894,
+      "PROMEDIO_NOTAS": 6.056011477761836,
+      "N_ESTUDIANTES": 697
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.10059795990151249,
+      "Municipal": 0.3686246922265213,
+      "Particular subvencionado": 0.5307773478719663,
+      "Slep": 0.01723531480830109,
+      "PROMEDIO_NOTAS": 6.202884277172001,
+      "N_ESTUDIANTES": 2843
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.021797799460244967,
+      "Municipal": 0.32738218808386965,
+      "Particular subvencionado": 0.6508200124558854,
+      "Slep": 0.01702304338800083,
+      "PROMEDIO_NOTAS": 5.91217147602242,
+      "N_ESTUDIANTES": 4817
+    },
+    "UNIVERSIDAD BERNARDO O'HIGGINS": {
+      "Particular pagado": 0.03546099290780142,
+      "Municipal": 0.26684397163120566,
+      "Particular subvencionado": 0.6976950354609929,
+      "Slep": 0.016843971631205674,
+      "PROMEDIO_NOTAS": 5.957358156028368,
+      "N_ESTUDIANTES": 1128
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.04267931238885596,
+      "Municipal": 0.42501481920569056,
+      "Particular subvencionado": 0.5323058684054535,
+      "Slep": 0.07409602845287493,
+      "PROMEDIO_NOTAS": 6.137208061647895,
+      "N_ESTUDIANTES": 1687
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.021917808219178082,
+      "Municipal": 0.4397260273972603,
+      "Particular subvencionado": 0.5383561643835616,
+      "Slep": 0.045205479452054796,
+      "PROMEDIO_NOTAS": 6.021095890410958,
+      "N_ESTUDIANTES": 1460
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.05244122965641953,
+      "Municipal": 0.4154611211573237,
+      "Particular subvencionado": 0.5320976491862568,
+      "Slep": 0.014014466546112115,
+      "PROMEDIO_NOTAS": 6.222992766726944,
+      "N_ESTUDIANTES": 2212
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.13373554550025138,
+      "Municipal": 0.2931121166415284,
+      "Particular subvencionado": 0.5731523378582202,
+      "Slep": 0.05681246857717446,
+      "PROMEDIO_NOTAS": 6.236641528406235,
+      "N_ESTUDIANTES": 1989
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.024229074889867842,
+      "Municipal": 0.3458149779735683,
+      "Particular subvencionado": 0.6299559471365639,
+      "Slep": 0.007709251101321586,
+      "PROMEDIO_NOTAS": 5.871464757709251,
+      "N_ESTUDIANTES": 908
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.12867132867132866,
+      "Municipal": 0.2125874125874126,
+      "Particular subvencionado": 0.6587412587412588,
+      "Slep": 0.044055944055944055,
+      "PROMEDIO_NOTAS": 5.797454545454546,
+      "N_ESTUDIANTES": 1430
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.1115702479338843,
+      "Municipal": 0.37706611570247933,
+      "Particular subvencionado": 0.5113636363636364,
+      "Slep": 0.009297520661157025,
+      "PROMEDIO_NOTAS": 6.142995867768595,
+      "N_ESTUDIANTES": 968
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.0510688836104513,
+      "Municipal": 0.4026128266033254,
+      "Particular subvencionado": 0.5463182897862233,
+      "Slep": 0.3657957244655582,
+      "PROMEDIO_NOTAS": 6.004489311163895,
+      "N_ESTUDIANTES": 842
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.0,
+      "Municipal": 0.34234234234234234,
+      "Particular subvencionado": 0.6576576576576577,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.97027027027027,
+      "N_ESTUDIANTES": 111
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.3384943940202883,
+      "Municipal": 0.22548496173696386,
+      "Particular subvencionado": 0.43602064424274783,
+      "Slep": 0.0069407367859049655,
+      "PROMEDIO_NOTAS": 6.515009788218545,
+      "N_ESTUDIANTES": 5619
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.11408083441981746,
+      "Municipal": 0.307909604519774,
+      "Particular subvencionado": 0.5780095610604086,
+      "Slep": 0.03672316384180791,
+      "PROMEDIO_NOTAS": 6.370973489787049,
+      "N_ESTUDIANTES": 4602
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.05315068493150685,
+      "Municipal": 0.34136986301369865,
+      "Particular subvencionado": 0.6054794520547945,
+      "Slep": 0.030684931506849315,
+      "PROMEDIO_NOTAS": 6.214641095890411,
+      "N_ESTUDIANTES": 1825
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.11421911421911422,
+      "Municipal": 0.29603729603729606,
+      "Particular subvencionado": 0.5897435897435898,
+      "Slep": 0.09557109557109557,
+      "PROMEDIO_NOTAS": 6.09901320901321,
+      "N_ESTUDIANTES": 1287
+    },
+    "UNIVERSIDAD DE LAS AMERICAS": {
+      "Particular pagado": 0.06894553881807648,
+      "Municipal": 0.2705677867902665,
+      "Particular subvencionado": 0.660486674391657,
+      "Slep": 0.023174971031286212,
+      "PROMEDIO_NOTAS": 5.65888180764774,
+      "N_ESTUDIANTES": 1726
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8648036253776435,
+      "Municipal": 0.035498489425981876,
+      "Particular subvencionado": 0.09969788519637462,
+      "Slep": 0.0015105740181268882,
+      "PROMEDIO_NOTAS": 6.375929003021148,
+      "N_ESTUDIANTES": 1324
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.02330097087378641,
+      "Municipal": 0.5446601941747573,
+      "Particular subvencionado": 0.4320388349514563,
+      "Slep": 0.04951456310679612,
+      "PROMEDIO_NOTAS": 5.95257281553398,
+      "N_ESTUDIANTES": 1030
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.12603305785123967,
+      "Municipal": 0.36363636363636365,
+      "Particular subvencionado": 0.5103305785123967,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.176363636363637,
+      "N_ESTUDIANTES": 484
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.09048067860508954,
+      "Municipal": 0.48444863336475025,
+      "Particular subvencionado": 0.42507068803016024,
+      "Slep": 0.02639019792648445,
+      "PROMEDIO_NOTAS": 6.197068803016022,
+      "N_ESTUDIANTES": 1061
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.02854230377166157,
+      "Municipal": 0.36085626911314983,
+      "Particular subvencionado": 0.6106014271151886,
+      "Slep": 0.07747196738022426,
+      "PROMEDIO_NOTAS": 5.868246687054026,
+      "N_ESTUDIANTES": 981
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.11808300395256917,
+      "Municipal": 0.2887845849802372,
+      "Particular subvencionado": 0.5931324110671937,
+      "Slep": 0.011363636363636364,
+      "PROMEDIO_NOTAS": 6.338125,
+      "N_ESTUDIANTES": 4048
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.08589951377633712,
+      "Municipal": 0.38519719070772557,
+      "Particular subvencionado": 0.5289032955159373,
+      "Slep": 0.011885467314964884,
+      "PROMEDIO_NOTAS": 6.327450027012426,
+      "N_ESTUDIANTES": 1851
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.03435114503816794,
+      "Municipal": 0.3198473282442748,
+      "Particular subvencionado": 0.6458015267175573,
+      "Slep": 0.24580152671755726,
+      "PROMEDIO_NOTAS": 6.189358778625954,
+      "N_ESTUDIANTES": 1310
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.13957375679063935,
+      "Municipal": 0.21855411617216883,
+      "Particular subvencionado": 0.6418721270371918,
+      "Slep": 0.041370664437944,
+      "PROMEDIO_NOTAS": 6.2184788967822815,
+      "N_ESTUDIANTES": 2393
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.01926252063841497,
+      "Municipal": 0.3731425426527243,
+      "Particular subvencionado": 0.6075949367088608,
+      "Slep": 0.033571821684094665,
+      "PROMEDIO_NOTAS": 6.1494111172261965,
+      "N_ESTUDIANTES": 1817
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6439854191980559,
+      "Municipal": 0.06520858647225597,
+      "Particular subvencionado": 0.2908059943296881,
+      "Slep": 0.010530579181855002,
+      "PROMEDIO_NOTAS": 6.160976103685703,
+      "N_ESTUDIANTES": 2469
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.23940520446096655,
+      "Municipal": 0.20074349442379183,
+      "Particular subvencionado": 0.5598513011152416,
+      "Slep": 0.004089219330855019,
+      "PROMEDIO_NOTAS": 6.001308550185874,
+      "N_ESTUDIANTES": 2690
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.18110850897736144,
+      "Municipal": 0.23575331772053085,
+      "Particular subvencionado": 0.5831381733021077,
+      "Slep": 0.0078064012490242,
+      "PROMEDIO_NOTAS": 6.024605776736925,
+      "N_ESTUDIANTES": 1281
+    },
+    "UNIVERSIDAD GABRIELA MISTRAL": {
+      "Particular pagado": 0.21428571428571427,
+      "Municipal": 0.22727272727272727,
+      "Particular subvencionado": 0.5584415584415584,
+      "Slep": 0.006493506493506494,
+      "PROMEDIO_NOTAS": 5.687337662337662,
+      "N_ESTUDIANTES": 154
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.1603361344537815,
+      "Municipal": 0.23126050420168068,
+      "Particular subvencionado": 0.6084033613445378,
+      "Slep": 0.010420168067226891,
+      "PROMEDIO_NOTAS": 6.036117647058823,
+      "N_ESTUDIANTES": 2975
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.09021113243761997,
+      "Municipal": 0.3570057581573896,
+      "Particular subvencionado": 0.5527831094049904,
+      "Slep": 0.009596928982725527,
+      "PROMEDIO_NOTAS": 5.944452975047985,
+      "N_ESTUDIANTES": 521
+    },
+    "UNIVERSIDAD MIGUEL DE CERVANTES": {
+      "Particular pagado": 0.0,
+      "Municipal": 0.21428571428571427,
+      "Particular subvencionado": 0.7857142857142857,
+      "Slep": 0.07142857142857142,
+      "PROMEDIO_NOTAS": 5.636428571428572,
+      "N_ESTUDIANTES": 14
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.13321888412017166,
+      "Municipal": 0.23433476394849787,
+      "Particular subvencionado": 0.6324463519313305,
+      "Slep": 0.02575107296137339,
+      "PROMEDIO_NOTAS": 6.04452703862661,
+      "N_ESTUDIANTES": 5825
+    },
+    "UNIVERSIDAD SANTO TOMAS": {
+      "Particular pagado": 0.02567449956483899,
+      "Municipal": 0.3816362053959965,
+      "Particular subvencionado": 0.5926892950391645,
+      "Slep": 0.043733681462140996,
+      "PROMEDIO_NOTAS": 6.003348563968668,
+      "N_ESTUDIANTES": 4596
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.28310679611650486,
+      "Municipal": 0.19145631067961166,
+      "Particular subvencionado": 0.5254368932038835,
+      "Slep": 0.018640776699029128,
+      "PROMEDIO_NOTAS": 6.332570873786408,
+      "N_ESTUDIANTES": 2575
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.05304518664047151,
+      "Municipal": 0.33595284872298625,
+      "Particular subvencionado": 0.6110019646365422,
+      "Slep": 0.01768172888015717,
+      "PROMEDIO_NOTAS": 5.793379174852652,
+      "N_ESTUDIANTES": 1018
+    }
+  },
+  "2023": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.5689954814042405,
+      "Municipal": 0.12982273201251304,
+      "Particular subvencionado": 0.30118178658324646,
+      "Slep": 0.006082725060827251,
+      "PROMEDIO_NOTAS": 6.573524504692387,
+      "N_ESTUDIANTES": 5754
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.1658291457286432,
+      "Municipal": 0.21675041876046902,
+      "Particular subvencionado": 0.6174204355108878,
+      "Slep": 0.03685092127303183,
+      "PROMEDIO_NOTAS": 6.237390284757119,
+      "N_ESTUDIANTES": 2985
+    },
+    "UNIVERSIDAD ACADEMIA DE HUMANISMO CRISTIANO": {
+      "Particular pagado": 0.03824362606232295,
+      "Municipal": 0.31444759206798867,
+      "Particular subvencionado": 0.6473087818696884,
+      "Slep": 0.021246458923512748,
+      "PROMEDIO_NOTAS": 5.761912181303116,
+      "N_ESTUDIANTES": 706
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8402328589909444,
+      "Municipal": 0.029754204398447608,
+      "Particular subvencionado": 0.13001293661060803,
+      "Slep": 0.00129366106080207,
+      "PROMEDIO_NOTAS": 6.403978007761966,
+      "N_ESTUDIANTES": 1546
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.07479224376731301,
+      "Municipal": 0.30193905817174516,
+      "Particular subvencionado": 0.6232686980609419,
+      "Slep": 0.018005540166204988,
+      "PROMEDIO_NOTAS": 5.850367036011081,
+      "N_ESTUDIANTES": 1444
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.21441291701294077,
+      "Municipal": 0.1740472515730737,
+      "Particular subvencionado": 0.6115398314139855,
+      "Slep": 0.013653092722307966,
+      "PROMEDIO_NOTAS": 6.024009260358542,
+      "N_ESTUDIANTES": 8423
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.013126491646778043,
+      "Municipal": 0.28162291169451076,
+      "Particular subvencionado": 0.7052505966587113,
+      "Slep": 0.00477326968973747,
+      "PROMEDIO_NOTAS": 6.056360381861576,
+      "N_ESTUDIANTES": 838
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.0781456953642384,
+      "Municipal": 0.40364238410596026,
+      "Particular subvencionado": 0.5182119205298014,
+      "Slep": 0.022516556291390728,
+      "PROMEDIO_NOTAS": 6.20801986754967,
+      "N_ESTUDIANTES": 3020
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.033687219273172725,
+      "Municipal": 0.3295222539812168,
+      "Particular subvencionado": 0.6367905267456104,
+      "Slep": 0.017762351980400163,
+      "PROMEDIO_NOTAS": 6.030722743977133,
+      "N_ESTUDIANTES": 4898
+    },
+    "UNIVERSIDAD BERNARDO O'HIGGINS": {
+      "Particular pagado": 0.026442307692307692,
+      "Municipal": 0.27724358974358976,
+      "Particular subvencionado": 0.6963141025641025,
+      "Slep": 0.008814102564102564,
+      "PROMEDIO_NOTAS": 6.106410256410257,
+      "N_ESTUDIANTES": 1248
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.03317281968967362,
+      "Municipal": 0.4323167469234885,
+      "Particular subvencionado": 0.5345104333868379,
+      "Slep": 0.05564472980203317,
+      "PROMEDIO_NOTAS": 6.265997859818085,
+      "N_ESTUDIANTES": 1869
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.017811704834605598,
+      "Municipal": 0.44274809160305345,
+      "Particular subvencionado": 0.539440203562341,
+      "Slep": 0.058524173027989825,
+      "PROMEDIO_NOTAS": 6.03818320610687,
+      "N_ESTUDIANTES": 1965
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.04268545379196022,
+      "Municipal": 0.420638209697472,
+      "Particular subvencionado": 0.5366763365105678,
+      "Slep": 0.01326150020721094,
+      "PROMEDIO_NOTAS": 6.288624119353502,
+      "N_ESTUDIANTES": 2413
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.14129483814523183,
+      "Municipal": 0.31452318460192474,
+      "Particular subvencionado": 0.5441819772528433,
+      "Slep": 0.051181102362204724,
+      "PROMEDIO_NOTAS": 6.2445013123359585,
+      "N_ESTUDIANTES": 2286
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.01763803680981595,
+      "Municipal": 0.37576687116564417,
+      "Particular subvencionado": 0.6065950920245399,
+      "Slep": 0.019171779141104295,
+      "PROMEDIO_NOTAS": 5.892722392638037,
+      "N_ESTUDIANTES": 1304
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.08071135430916553,
+      "Municipal": 0.2558139534883721,
+      "Particular subvencionado": 0.6634746922024624,
+      "Slep": 0.03784769721842225,
+      "PROMEDIO_NOTAS": 5.854646602827177,
+      "N_ESTUDIANTES": 2193
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.09146877748460862,
+      "Municipal": 0.37115215479331576,
+      "Particular subvencionado": 0.5373790677220757,
+      "Slep": 0.007036059806508356,
+      "PROMEDIO_NOTAS": 6.205901495162709,
+      "N_ESTUDIANTES": 1137
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.05333333333333334,
+      "Municipal": 0.40717948717948715,
+      "Particular subvencionado": 0.5394871794871795,
+      "Slep": 0.38256410256410256,
+      "PROMEDIO_NOTAS": 6.110851282051282,
+      "N_ESTUDIANTES": 975
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.007633587786259542,
+      "Municipal": 0.29770992366412213,
+      "Particular subvencionado": 0.6946564885496184,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.033282442748091,
+      "N_ESTUDIANTES": 131
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.321745057941377,
+      "Municipal": 0.24096796182685754,
+      "Particular subvencionado": 0.4372869802317655,
+      "Slep": 0.009884117246080437,
+      "PROMEDIO_NOTAS": 6.48361963190184,
+      "N_ESTUDIANTES": 5868
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.10363225938846707,
+      "Municipal": 0.32813461933100757,
+      "Particular subvencionado": 0.5682331212805254,
+      "Slep": 0.036322593884670636,
+      "PROMEDIO_NOTAS": 6.407514877898625,
+      "N_ESTUDIANTES": 4873
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.06981317600786627,
+      "Municipal": 0.3780727630285152,
+      "Particular subvencionado": 0.5521140609636185,
+      "Slep": 0.037856440511307765,
+      "PROMEDIO_NOTAS": 6.30704523107178,
+      "N_ESTUDIANTES": 2034
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.11651090342679128,
+      "Municipal": 0.3003115264797508,
+      "Particular subvencionado": 0.5831775700934579,
+      "Slep": 0.1015576323987539,
+      "PROMEDIO_NOTAS": 6.160853582554517,
+      "N_ESTUDIANTES": 1605
+    },
+    "UNIVERSIDAD DE LAS AMERICAS": {
+      "Particular pagado": 0.04480593607305936,
+      "Municipal": 0.3179223744292237,
+      "Particular subvencionado": 0.6372716894977168,
+      "Slep": 0.02711187214611872,
+      "PROMEDIO_NOTAS": 5.7856250000000005,
+      "N_ESTUDIANTES": 3504
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8588235294117647,
+      "Municipal": 0.041176470588235294,
+      "Particular subvencionado": 0.1,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.383869281045752,
+      "N_ESTUDIANTES": 1530
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.02236842105263158,
+      "Municipal": 0.5381578947368421,
+      "Particular subvencionado": 0.4394736842105263,
+      "Slep": 0.03684210526315789,
+      "PROMEDIO_NOTAS": 5.986269736842105,
+      "N_ESTUDIANTES": 1520
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.09950248756218906,
+      "Municipal": 0.3615257048092869,
+      "Particular subvencionado": 0.538971807628524,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 6.170232172470978,
+      "N_ESTUDIANTES": 603
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.07658227848101266,
+      "Municipal": 0.49936708860759493,
+      "Particular subvencionado": 0.4240506329113924,
+      "Slep": 0.035443037974683546,
+      "PROMEDIO_NOTAS": 6.228696202531646,
+      "N_ESTUDIANTES": 1580
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.029535864978902954,
+      "Municipal": 0.350210970464135,
+      "Particular subvencionado": 0.620253164556962,
+      "Slep": 0.08860759493670886,
+      "PROMEDIO_NOTAS": 5.911789029535865,
+      "N_ESTUDIANTES": 1185
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.10009310986964619,
+      "Municipal": 0.3230912476722533,
+      "Particular subvencionado": 0.5768156424581006,
+      "Slep": 0.013733705772811917,
+      "PROMEDIO_NOTAS": 6.343009776536313,
+      "N_ESTUDIANTES": 4296
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.07237163814180929,
+      "Municipal": 0.3975550122249389,
+      "Particular subvencionado": 0.5300733496332518,
+      "Slep": 0.010268948655256724,
+      "PROMEDIO_NOTAS": 6.386748166259169,
+      "N_ESTUDIANTES": 2045
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.03196066379840197,
+      "Municipal": 0.33128457283343576,
+      "Particular subvencionado": 0.6367547633681623,
+      "Slep": 0.2624462200368777,
+      "PROMEDIO_NOTAS": 6.255623847572219,
+      "N_ESTUDIANTES": 1627
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.11715481171548117,
+      "Municipal": 0.23709902370990238,
+      "Particular subvencionado": 0.6457461645746164,
+      "Slep": 0.04218967921896792,
+      "PROMEDIO_NOTAS": 6.199323570432357,
+      "N_ESTUDIANTES": 2868
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.016770483948251078,
+      "Municipal": 0.3881169142309535,
+      "Particular subvencionado": 0.5951126018207954,
+      "Slep": 0.02731193100143747,
+      "PROMEDIO_NOTAS": 6.196784858648779,
+      "N_ESTUDIANTES": 2087
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.620241116751269,
+      "Municipal": 0.07233502538071065,
+      "Particular subvencionado": 0.3074238578680203,
+      "Slep": 0.006027918781725888,
+      "PROMEDIO_NOTAS": 6.188512055837563,
+      "N_ESTUDIANTES": 3152
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.17571383746470035,
+      "Municipal": 0.21336680263570756,
+      "Particular subvencionado": 0.6109193598995921,
+      "Slep": 0.005334170065892689,
+      "PROMEDIO_NOTAS": 6.126068402886727,
+      "N_ESTUDIANTES": 3187
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.1553337492202121,
+      "Municipal": 0.21397379912663755,
+      "Particular subvencionado": 0.6306924516531504,
+      "Slep": 0.007485963817841547,
+      "PROMEDIO_NOTAS": 6.0550093574547725,
+      "N_ESTUDIANTES": 1603
+    },
+    "UNIVERSIDAD GABRIELA MISTRAL": {
+      "Particular pagado": 0.1414141414141414,
+      "Municipal": 0.25925925925925924,
+      "Particular subvencionado": 0.5993265993265994,
+      "Slep": 0.020202020202020204,
+      "PROMEDIO_NOTAS": 5.8791919191919195,
+      "N_ESTUDIANTES": 297
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.13817330210772832,
+      "Municipal": 0.2679826028772165,
+      "Particular subvencionado": 0.5938440950150552,
+      "Slep": 0.01405152224824356,
+      "PROMEDIO_NOTAS": 6.0482469053195045,
+      "N_ESTUDIANTES": 2989
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.06266666666666666,
+      "Municipal": 0.3466666666666667,
+      "Particular subvencionado": 0.5906666666666667,
+      "Slep": 0.018666666666666668,
+      "PROMEDIO_NOTAS": 5.92532,
+      "N_ESTUDIANTES": 750
+    },
+    "UNIVERSIDAD MIGUEL DE CERVANTES": {
+      "Particular pagado": 0.08108108108108109,
+      "Municipal": 0.32432432432432434,
+      "Particular subvencionado": 0.5945945945945946,
+      "Slep": 0.0,
+      "PROMEDIO_NOTAS": 5.561891891891892,
+      "N_ESTUDIANTES": 37
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.11911860012961763,
+      "Municipal": 0.25119896305897604,
+      "Particular subvencionado": 0.6296824368114063,
+      "Slep": 0.027738172391445236,
+      "PROMEDIO_NOTAS": 6.060269604666235,
+      "N_ESTUDIANTES": 7715
+    },
+    "UNIVERSIDAD SANTO TOMAS": {
+      "Particular pagado": 0.025860226544133363,
+      "Municipal": 0.38341525967086987,
+      "Particular subvencionado": 0.5907245137849968,
+      "Slep": 0.043812780508655697,
+      "PROMEDIO_NOTAS": 6.079596067535799,
+      "N_ESTUDIANTES": 4679
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.24624122953558303,
+      "Municipal": 0.2231874373538256,
+      "Particular subvencionado": 0.5305713331105913,
+      "Slep": 0.02238556632141664,
+      "PROMEDIO_NOTAS": 6.320731707317074,
+      "N_ESTUDIANTES": 2993
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.03777335984095427,
+      "Municipal": 0.3081510934393638,
+      "Particular subvencionado": 0.6540755467196819,
+      "Slep": 0.013916500994035786,
+      "PROMEDIO_NOTAS": 5.799304174950299,
+      "N_ESTUDIANTES": 1006
+    }
+  },
+  "2024": {
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE": {
+      "Particular pagado": 0.5453941908713693,
+      "Municipal": 0.13294605809128632,
+      "Particular subvencionado": 0.3216597510373444,
+      "Slep": 0.006970954356846473,
+      "PROMEDIO_NOTAS": 6.602695435684647,
+      "N_ESTUDIANTES": 6025
+    },
+    "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO": {
+      "Particular pagado": 0.1560711057547454,
+      "Municipal": 0.21753540222958723,
+      "Particular subvencionado": 0.6263934920156674,
+      "Slep": 0.03675805965652305,
+      "PROMEDIO_NOTAS": 6.280168725519736,
+      "N_ESTUDIANTES": 3319
+    },
+    "UNIVERSIDAD ACADEMIA DE HUMANISMO CRISTIANO": {
+      "Particular pagado": 0.03494176372712146,
+      "Municipal": 0.34941763727121466,
+      "Particular subvencionado": 0.6156405990016639,
+      "Slep": 0.02329450915141431,
+      "PROMEDIO_NOTAS": 5.704725457570715,
+      "N_ESTUDIANTES": 601
+    },
+    "UNIVERSIDAD ADOLFO IBAÑEZ": {
+      "Particular pagado": 0.8197984588026082,
+      "Municipal": 0.03023117960877297,
+      "Particular subvencionado": 0.14997036158861884,
+      "Slep": 0.0017783046828689982,
+      "PROMEDIO_NOTAS": 6.40787788974511,
+      "N_ESTUDIANTES": 1687
+    },
+    "UNIVERSIDAD ADVENTISTA DE CHILE": {
+      "Particular pagado": 0.007407407407407408,
+      "Municipal": 0.19074074074074074,
+      "Particular subvencionado": 0.8018518518518518,
+      "Slep": 0.014814814814814815,
+      "PROMEDIO_NOTAS": 5.998759259259259,
+      "N_ESTUDIANTES": 540
+    },
+    "UNIVERSIDAD ALBERTO HURTADO": {
+      "Particular pagado": 0.05778069599474721,
+      "Municipal": 0.33223900196979644,
+      "Particular subvencionado": 0.6099803020354564,
+      "Slep": 0.01772816808929744,
+      "PROMEDIO_NOTAS": 5.888161523309258,
+      "N_ESTUDIANTES": 1523
+    },
+    "UNIVERSIDAD ANDRES BELLO": {
+      "Particular pagado": 0.21807420896881402,
+      "Municipal": 0.1744821306624175,
+      "Particular subvencionado": 0.6074436603687685,
+      "Slep": 0.017186432961529708,
+      "PROMEDIO_NOTAS": 6.015130890052356,
+      "N_ESTUDIANTES": 8786
+    },
+    "UNIVERSIDAD ARTURO PRAT": {
+      "Particular pagado": 0.020222446916076844,
+      "Municipal": 0.3104145601617796,
+      "Particular subvencionado": 0.6693629929221436,
+      "Slep": 0.034378159757330634,
+      "PROMEDIO_NOTAS": 6.1325581395348845,
+      "N_ESTUDIANTES": 989
+    },
+    "UNIVERSIDAD AUSTRAL DE CHILE": {
+      "Particular pagado": 0.06959349593495935,
+      "Municipal": 0.41821138211382114,
+      "Particular subvencionado": 0.5121951219512195,
+      "Slep": 0.030894308943089432,
+      "PROMEDIO_NOTAS": 6.23660162601626,
+      "N_ESTUDIANTES": 3075
+    },
+    "UNIVERSIDAD AUTONOMA DE CHILE": {
+      "Particular pagado": 0.03364817001180637,
+      "Municipal": 0.31582054309327035,
+      "Particular subvencionado": 0.6505312868949232,
+      "Slep": 0.015938606847697757,
+      "PROMEDIO_NOTAS": 6.020714285714286,
+      "N_ESTUDIANTES": 5082
+    },
+    "UNIVERSIDAD BERNARDO O'HIGGINS": {
+      "Particular pagado": 0.03456402199528672,
+      "Municipal": 0.27572663000785547,
+      "Particular subvencionado": 0.6897093479968578,
+      "Slep": 0.01021209740769835,
+      "PROMEDIO_NOTAS": 6.051571091908876,
+      "N_ESTUDIANTES": 1273
+    },
+    "UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION": {
+      "Particular pagado": 0.037454873646209384,
+      "Municipal": 0.4029783393501805,
+      "Particular subvencionado": 0.5595667870036101,
+      "Slep": 0.06678700361010831,
+      "PROMEDIO_NOTAS": 6.237129963898917,
+      "N_ESTUDIANTES": 2216
+    },
+    "UNIVERSIDAD CATOLICA DE TEMUCO": {
+      "Particular pagado": 0.02505800464037123,
+      "Municipal": 0.47192575406032483,
+      "Particular subvencionado": 0.5030162412993039,
+      "Slep": 0.06264501160092807,
+      "PROMEDIO_NOTAS": 6.132501160092808,
+      "N_ESTUDIANTES": 2155
+    },
+    "UNIVERSIDAD CATOLICA DEL MAULE": {
+      "Particular pagado": 0.03765227021040975,
+      "Municipal": 0.42709486895533405,
+      "Particular subvencionado": 0.5352528608342562,
+      "Slep": 0.01107419712070875,
+      "PROMEDIO_NOTAS": 6.329376153562199,
+      "N_ESTUDIANTES": 2709
+    },
+    "UNIVERSIDAD CATOLICA DEL NORTE": {
+      "Particular pagado": 0.12947189097103917,
+      "Municipal": 0.30068143100511074,
+      "Particular subvencionado": 0.5698466780238501,
+      "Slep": 0.049829642248722314,
+      "PROMEDIO_NOTAS": 6.265643100511073,
+      "N_ESTUDIANTES": 2348
+    },
+    "UNIVERSIDAD CATOLICA SILVA HENRIQUEZ": {
+      "Particular pagado": 0.01192368839427663,
+      "Municipal": 0.3688394276629571,
+      "Particular subvencionado": 0.6192368839427663,
+      "Slep": 0.01987281399046105,
+      "PROMEDIO_NOTAS": 5.87181240063593,
+      "N_ESTUDIANTES": 1258
+    },
+    "UNIVERSIDAD CENTRAL": {
+      "Particular pagado": 0.06907256499805976,
+      "Municipal": 0.2576639503298409,
+      "Particular subvencionado": 0.6732634846720993,
+      "Slep": 0.04152114862242918,
+      "PROMEDIO_NOTAS": 6.036577415599535,
+      "N_ESTUDIANTES": 2577
+    },
+    "UNIVERSIDAD DE ANTOFAGASTA": {
+      "Particular pagado": 0.10949529512403763,
+      "Municipal": 0.3746792130025663,
+      "Particular subvencionado": 0.5158254918733961,
+      "Slep": 0.0051325919589392645,
+      "PROMEDIO_NOTAS": 6.2029683490162535,
+      "N_ESTUDIANTES": 1169
+    },
+    "UNIVERSIDAD DE ATACAMA": {
+      "Particular pagado": 0.06991720331186753,
+      "Municipal": 0.39558417663293466,
+      "Particular subvencionado": 0.5344986200551978,
+      "Slep": 0.36982520699172033,
+      "PROMEDIO_NOTAS": 6.071067157313707,
+      "N_ESTUDIANTES": 1087
+    },
+    "UNIVERSIDAD DE AYSEN": {
+      "Particular pagado": 0.009174311926605505,
+      "Municipal": 0.42201834862385323,
+      "Particular subvencionado": 0.5688073394495413,
+      "Slep": 0.03669724770642202,
+      "PROMEDIO_NOTAS": 6.083669724770642,
+      "N_ESTUDIANTES": 109
+    },
+    "UNIVERSIDAD DE CHILE": {
+      "Particular pagado": 0.34112539656036067,
+      "Municipal": 0.22908665887460344,
+      "Particular subvencionado": 0.4297879445650359,
+      "Slep": 0.009684421439305393,
+      "PROMEDIO_NOTAS": 6.49398397061279,
+      "N_ESTUDIANTES": 5989
+    },
+    "UNIVERSIDAD DE CONCEPCION": {
+      "Particular pagado": 0.1054294175715696,
+      "Municipal": 0.340177690029615,
+      "Particular subvencionado": 0.5543928923988154,
+      "Slep": 0.03770977295162883,
+      "PROMEDIO_NOTAS": 6.409312931885489,
+      "N_ESTUDIANTES": 5065
+    },
+    "UNIVERSIDAD DE LA FRONTERA": {
+      "Particular pagado": 0.05644791188618632,
+      "Municipal": 0.35933914639743003,
+      "Particular subvencionado": 0.5842129417163837,
+      "Slep": 0.04726938962826985,
+      "PROMEDIO_NOTAS": 6.316044056906838,
+      "N_ESTUDIANTES": 2179
+    },
+    "UNIVERSIDAD DE LA SERENA": {
+      "Particular pagado": 0.11214410226612434,
+      "Municipal": 0.2957582800697269,
+      "Particular subvencionado": 0.5920976176641487,
+      "Slep": 0.0906449738524114,
+      "PROMEDIO_NOTAS": 6.190278907611853,
+      "N_ESTUDIANTES": 1721
+    },
+    "UNIVERSIDAD DE LAS AMERICAS": {
+      "Particular pagado": 0.01891058581706064,
+      "Municipal": 0.355601233299075,
+      "Particular subvencionado": 0.6254881808838644,
+      "Slep": 0.0328879753340185,
+      "PROMEDIO_NOTAS": 5.992513874614595,
+      "N_ESTUDIANTES": 4865
+    },
+    "UNIVERSIDAD DE LOS ANDES": {
+      "Particular pagado": 0.8581336696090794,
+      "Municipal": 0.033417402269861285,
+      "Particular subvencionado": 0.10844892812105927,
+      "Slep": 0.0006305170239596469,
+      "PROMEDIO_NOTAS": 6.416866330390921,
+      "N_ESTUDIANTES": 1586
+    },
+    "UNIVERSIDAD DE LOS LAGOS": {
+      "Particular pagado": 0.03156708004509583,
+      "Municipal": 0.5372040586245772,
+      "Particular subvencionado": 0.43122886133032695,
+      "Slep": 0.043968432919954906,
+      "PROMEDIO_NOTAS": 5.97401916572717,
+      "N_ESTUDIANTES": 1774
+    },
+    "UNIVERSIDAD DE MAGALLANES": {
+      "Particular pagado": 0.14506172839506173,
+      "Municipal": 0.35802469135802467,
+      "Particular subvencionado": 0.49691358024691357,
+      "Slep": 0.18209876543209877,
+      "PROMEDIO_NOTAS": 6.218672839506173,
+      "N_ESTUDIANTES": 648
+    },
+    "UNIVERSIDAD DE O'HIGGINS": {
+      "Particular pagado": 0.08071135430916553,
+      "Municipal": 0.49247606019151846,
+      "Particular subvencionado": 0.426812585499316,
+      "Slep": 0.022799817601459188,
+      "PROMEDIO_NOTAS": 6.131007751937984,
+      "N_ESTUDIANTES": 2193
+    },
+    "UNIVERSIDAD DE PLAYA ANCHA ": {
+      "Particular pagado": 0.029049295774647887,
+      "Municipal": 0.363556338028169,
+      "Particular subvencionado": 0.6073943661971831,
+      "Slep": 0.08714788732394366,
+      "PROMEDIO_NOTAS": 5.923978873239437,
+      "N_ESTUDIANTES": 1136
+    },
+    "UNIVERSIDAD DE SANTIAGO DE CHILE": {
+      "Particular pagado": 0.10754620123203286,
+      "Municipal": 0.31853182751540043,
+      "Particular subvencionado": 0.5739219712525667,
+      "Slep": 0.015400410677618069,
+      "PROMEDIO_NOTAS": 6.374101642710472,
+      "N_ESTUDIANTES": 3896
+    },
+    "UNIVERSIDAD DE TALCA": {
+      "Particular pagado": 0.06946902654867257,
+      "Municipal": 0.38849557522123895,
+      "Particular subvencionado": 0.5420353982300885,
+      "Slep": 0.012389380530973451,
+      "PROMEDIO_NOTAS": 6.368884955752213,
+      "N_ESTUDIANTES": 2260
+    },
+    "UNIVERSIDAD DE TARAPACA": {
+      "Particular pagado": 0.03530092592592592,
+      "Municipal": 0.32175925925925924,
+      "Particular subvencionado": 0.6429398148148148,
+      "Slep": 0.2650462962962963,
+      "PROMEDIO_NOTAS": 6.267054398148148,
+      "N_ESTUDIANTES": 1728
+    },
+    "UNIVERSIDAD DE VALPARAISO": {
+      "Particular pagado": 0.11336717428087986,
+      "Municipal": 0.24737732656514383,
+      "Particular subvencionado": 0.6392554991539763,
+      "Slep": 0.04297800338409476,
+      "PROMEDIO_NOTAS": 6.2145583756345175,
+      "N_ESTUDIANTES": 2955
+    },
+    "UNIVERSIDAD DEL BIO-BIO": {
+      "Particular pagado": 0.01955671447196871,
+      "Municipal": 0.3954802259887006,
+      "Particular subvencionado": 0.5849630595393307,
+      "Slep": 0.03911342894393742,
+      "PROMEDIO_NOTAS": 6.211568883094307,
+      "N_ESTUDIANTES": 2301
+    },
+    "UNIVERSIDAD DEL DESARROLLO": {
+      "Particular pagado": 0.6677966101694915,
+      "Municipal": 0.0576271186440678,
+      "Particular subvencionado": 0.2745762711864407,
+      "Slep": 0.005084745762711864,
+      "PROMEDIO_NOTAS": 6.204728813559322,
+      "N_ESTUDIANTES": 2950
+    },
+    "UNIVERSIDAD DIEGO PORTALES": {
+      "Particular pagado": 0.1713569239342435,
+      "Municipal": 0.20284201727500697,
+      "Particular subvencionado": 0.6258010587907495,
+      "Slep": 0.006129841181387573,
+      "PROMEDIO_NOTAS": 6.1864446921147955,
+      "N_ESTUDIANTES": 3589
+    },
+    "UNIVERSIDAD FINIS TERRAE": {
+      "Particular pagado": 0.1444866920152091,
+      "Municipal": 0.2046894803548796,
+      "Particular subvencionado": 0.6508238276299113,
+      "Slep": 0.008238276299112801,
+      "PROMEDIO_NOTAS": 6.080177439797212,
+      "N_ESTUDIANTES": 1578
+    },
+    "UNIVERSIDAD GABRIELA MISTRAL": {
+      "Particular pagado": 0.12389380530973451,
+      "Municipal": 0.2713864306784661,
+      "Particular subvencionado": 0.6047197640117994,
+      "Slep": 0.008849557522123894,
+      "PROMEDIO_NOTAS": 5.758790560471977,
+      "N_ESTUDIANTES": 339
+    },
+    "UNIVERSIDAD MAYOR": {
+      "Particular pagado": 0.13027704485488126,
+      "Municipal": 0.23977572559366755,
+      "Particular subvencionado": 0.6299472295514512,
+      "Slep": 0.016160949868073878,
+      "PROMEDIO_NOTAS": 6.054442612137203,
+      "N_ESTUDIANTES": 3032
+    },
+    "UNIVERSIDAD METROPOLITANA DE CIENCIAS DE LA EDUCACION": {
+      "Particular pagado": 0.05555555555555555,
+      "Municipal": 0.3488372093023256,
+      "Particular subvencionado": 0.5956072351421189,
+      "Slep": 0.023255813953488372,
+      "PROMEDIO_NOTAS": 5.9242764857881145,
+      "N_ESTUDIANTES": 774
+    },
+    "UNIVERSIDAD SAN SEBASTIAN": {
+      "Particular pagado": 0.12730205672805484,
+      "Municipal": 0.24196800645248018,
+      "Particular subvencionado": 0.630729936819465,
+      "Slep": 0.02728861406102971,
+      "PROMEDIO_NOTAS": 6.061661513644307,
+      "N_ESTUDIANTES": 7439
+    },
+    "UNIVERSIDAD SANTO TOMAS": {
+      "Particular pagado": 0.02654867256637168,
+      "Municipal": 0.36142397425583267,
+      "Particular subvencionado": 0.6120273531777957,
+      "Slep": 0.044650040225261464,
+      "PROMEDIO_NOTAS": 5.948447304907482,
+      "N_ESTUDIANTES": 4972
+    },
+    "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA": {
+      "Particular pagado": 0.27570891697984284,
+      "Municipal": 0.2019132217287325,
+      "Particular subvencionado": 0.5223778612914247,
+      "Slep": 0.019815510761872223,
+      "PROMEDIO_NOTAS": 6.443713700034165,
+      "N_ESTUDIANTES": 2927
+    },
+    "UNIVERSIDAD TECNOLOGICA METROPOLITANA": {
+      "Particular pagado": 0.04505229283990346,
+      "Municipal": 0.3258246178600161,
+      "Particular subvencionado": 0.6291230893000804,
+      "Slep": 0.014481094127111826,
+      "PROMEDIO_NOTAS": 5.829211584875302,
+      "N_ESTUDIANTES": 1243
+    }
+  }
+}
