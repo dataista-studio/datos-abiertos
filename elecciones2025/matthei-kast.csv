@@ -1,21 +1,21 @@
-encuesta,fecha,Evelyn Matthei,José Antonio Kast
-Activa,23–26 Sep 2025,"29,3","30,3"
-B&W,23–24 Sep 2025,33,38
-B&W,16–17 Sep 2025,36,40
-Cadem,10-12 Sep 2025,30,33
-Cadem,3-5 Sep 2025,30,36
-B&W,2–3 Sep 2025,35,38
-Activa,26-29 Ago 2025,"28,4","29,9"
-Cadem,20-22 Ago 2025,28,36
-B&W,26–27 Ago 2025,31,40
-Activa,14–15 Ago 2025 ,"27,1","33,7"
-B&W,12–13 Ago 2025 ,58,42
-B&W,30 Jul–6 Ago 2025 ,57,43
-Activa,30 Jul–1 Ago 2025 ,"25,7","31,1"
-B&W,29–30 Jul 2025 ,56,44
-B&W,22–23 Jul 2025 ,52,48
-Cadem,9–11 Jul 2025 ,31,37
-Data Influye,1–6 Jul 2025 ,24,28
-B&W,1–2 Jul 2025 ,62,38
-Activa,30 Jun–1 Jul 2025 ,"25,7","31,1"
-Panel Ciudadano,29–30 Jun 2025 ,32,35
+encuesta,fecha,Evelyn Matthei,José Antonio Kast,casos
+Activa,23–26 Sep 2025,"29,3","30,3",1202
+B&W,23–24 Sep 2025,33,38,1138
+B&W,16–17 Sep 2025,36,40,977
+Cadem,10-12 Sep 2025,30,33,703
+Cadem,3-5 Sep 2025,30,36,703
+B&W,2–3 Sep 2025,35,38,987
+Activa,26-29 Ago 2025,"28,4","29,9",1053
+Cadem,20-22 Ago 2025,28,36,705
+B&W,26–27 Ago 2025,31,40,918
+Activa,14–15 Ago 2025 ,"27,1","33,7",1006
+B&W,12–13 Ago 2025 ,58,42,935
+B&W,30 Jul–6 Ago 2025 ,57,43,990
+Activa,30 Jul–1 Ago 2025 ,"25,7","31,1",1053
+B&W,29–30 Jul 2025 ,56,44,987
+B&W,22–23 Jul 2025 ,52,48,1397
+Cadem,9–11 Jul 2025 ,31,37,705
+Data Influye,1–6 Jul 2025 ,24,28,1096
+B&W,1–2 Jul 2025 ,62,38,928
+Activa,30 Jun–1 Jul 2025 ,"25,7","31,1",1006
+Panel Ciudadano,29–30 Jun 2025 ,32,35,3873

@@ -1,55 +1,55 @@
-encuesta,fecha,Jeannette Jara,Evelyn Matthei
-Signos Analytics,25 Sep-4 Oct 2025,33,"47,1"
-Panel Ciudadano,2–3 Oct 2025,30,46
-Criteria,30 Sep–2 Oct 2025,34,41
-Panel Ciudadano,25-26 Sep 2025,28,45
-Activa,23–26 Sep 2025,"27,9","38,2"
-Criteria,23-25 Sep 2025,34,39
-B&W,23–24 Sep 2025,33,52
-Panel Ciudadano,18-19 Sep 2025,29,46
-B&W,16–17 Sep 2025,33,56
-Criteria,15-17 Sep 2025,33,41
-Atlas Intel,10–14 Sep 2025,41,40
-Signos,9–14 Sep 2025,"34,1","45,5"
-Panel Ciudadano,11-12 Sep 2025,31,43
-Cadem,10-12 Sep 2025,31,45
-LCN,2-12 Sep 2025,"38,7","61,3"
-Criteria,11 Sep 2025,33,40
-Panel Ciudadano,4-5 Sep 2025,29,47
-Cadem,3-5 Sep 2025,32,43
-Criteria,2-4 Sep 2025,33,42
-B&W,2–3 Sep 2025,37,52
-Panel Ciudadano,28-29 Ago 2025,29,45
-Activa,26-29 Ago 2025,"29,1","34,8"
-LCN,16-28 Ago 2025,"37,8","62,1"
-Criteria,26-28 Ago 2025,31,40
-B&W,26–27 Ago 2025,36,50
-Atlas Intel,20–25 Ago 2025,34,47
-Panel Ciudadano,21-22 Ago 2025,29,44
-Cadem,20-22 Ago 2025,33,40
-Criteria,19-21 Ago 2025,32,42
-B&W,19–20 Ago 2025,34,55
-Activa,14–15 Ago 2025 ,"31,2","34,1"
-Panel Ciudadano,14–15 Ago 2025 ,32,42
-Criteria,12–14 Ago 2025 ,33,42
-B&W,12–13 Ago 2025 ,33,67
-LCN,1–10 Ago 2025 ,"42,6","57,4"
-Panel Ciudadano,7–8 Ago 2025 ,32,44
-Cadem,6–8 Ago 2025 ,37,46
-B&W,30 Jul–6 Ago 2025 ,28,72
-Data Influye,30 Jul–3 Ago 2025 ,38,48
-Cadem,30 Jul–1 Ago 2025 ,37,42
-Activa,30 Jul–1 Ago 2025 ,"29,8","40,4"
-Panel Ciudadano,30–31 Jul 2025 ,32,41
-Criteria,29–31 Jul 2025 ,34,40
-B&W,29–30 Jul 2025 ,38,62
-Atlas Intel,21–24 Jul 2025 ,37,39
-B&W,22–23 Jul 2025 ,38,62
-LCN,12–21 Jul 2025 ,"41,5","58,5"
-Criteria,15-17 Jul 2025 ,34,40
-Cadem,9–11 Jul 2025 ,37,42
-Data Influye,1–6 Jul 2025 ,41,43
-Criteria,1–3 Jul 2025 ,35,40
-B&W,1–2 Jul 2025 ,43,57
-Activa,30 Jun–1 Jul 2025 ,"29,8","40,4"
-Panel Ciudadano,29–30 Jun 2025 ,32,44
+encuesta,fecha,Jeannette Jara,Evelyn Matthei,casos
+Signos Analytics,25 Sep-4 Oct 2025,33,"47,1",1005
+Panel Ciudadano,2–3 Oct 2025,30,46,1821
+Criteria,30 Sep–2 Oct 2025,34,41,1003
+Panel Ciudadano,25-26 Sep 2025,28,45,1081
+Activa,23–26 Sep 2025,"27,9","38,2",1202
+Criteria,23-25 Sep 2025,34,39,1004
+B&W,23–24 Sep 2025,33,52,1138
+Panel Ciudadano,18-19 Sep 2025,29,46,1062
+B&W,16–17 Sep 2025,33,56,977
+Criteria,15-17 Sep 2025,33,41,1006
+Atlas Intel,10–14 Sep 2025,41,40,4156
+Signos,9–14 Sep 2025,"34,1","45,5",1001
+Panel Ciudadano,11-12 Sep 2025,31,43,3907
+Cadem,10-12 Sep 2025,31,45,703
+LCN,2-12 Sep 2025,"38,7","61,3",600
+Criteria,11 Sep 2025,33,40,1004
+Panel Ciudadano,4-5 Sep 2025,29,47,1062
+Cadem,3-5 Sep 2025,32,43,703
+Criteria,2-4 Sep 2025,33,42,1002
+B&W,2–3 Sep 2025,37,52,987
+Panel Ciudadano,28-29 Ago 2025,29,45,1094
+Activa,26-29 Ago 2025,"29,1","34,8",1053
+LCN,16-28 Ago 2025,"37,8","62,1",600
+Criteria,26-28 Ago 2025,31,40,1001
+B&W,26–27 Ago 2025,36,50,917
+Atlas Intel,20–25 Ago 2025,34,47,2717
+Panel Ciudadano,21-22 Ago 2025,29,44,1832
+Cadem,20-22 Ago 2025,33,40,705
+Criteria,19-21 Ago 2025,32,42,1019
+B&W,19–20 Ago 2025,34,55,918
+Activa,14–15 Ago 2025 ,"31,2","34,1",1006
+Panel Ciudadano,14–15 Ago 2025 ,32,42,1018
+Criteria,12–14 Ago 2025 ,33,42,1003
+B&W,12–13 Ago 2025 ,33,67,935
+LCN,1–10 Ago 2025 ,"42,6","57,4",600
+Panel Ciudadano,7–8 Ago 2025 ,32,44,1048
+Cadem,6–8 Ago 2025 ,37,46,708
+B&W,30 Jul–6 Ago 2025 ,28,72,990
+Data Influye,30 Jul–3 Ago 2025 ,38,48,1080
+Cadem,30 Jul–1 Ago 2025 ,37,42,703
+Activa,30 Jul–1 Ago 2025 ,"29,8","40,4",1053
+Panel Ciudadano,30–31 Jul 2025 ,32,41,1798
+Criteria,29–31 Jul 2025 ,34,40,1012
+B&W,29–30 Jul 2025 ,38,62,987
+Atlas Intel,21–24 Jul 2025 ,37,39,2717
+B&W,22–23 Jul 2025 ,38,62,1397
+LCN,12–21 Jul 2025 ,"41,5","58,5",600
+Criteria,15-17 Jul 2025 ,34,40,1025
+Cadem,9–11 Jul 2025 ,37,42,705
+Data Influye,1–6 Jul 2025 ,41,43,1096
+Criteria,1–3 Jul 2025 ,35,40,1002
+B&W,1–2 Jul 2025 ,43,57,928
+Activa,30 Jun–1 Jul 2025 ,"29,8","40,4",1006
+Panel Ciudadano,29–30 Jun 2025 ,32,44,3873
